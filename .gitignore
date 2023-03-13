@@ -1,0 +1,11 @@
+*~
+*.swp
+*.pid
+*.key
+*.crt
+*.lock
+*.mp3
+*.mp4
+.project/
+public/
+themes/
