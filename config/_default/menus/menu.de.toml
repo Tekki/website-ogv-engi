@@ -1,0 +1,49 @@
+[[main]]
+  name = "Home"
+  url = ""
+  weight = -110
+
+[[main]]
+  name = "News"
+  url = "categories/news/"
+  weight = -109
+
+[[main]]
+  name = "Publikationen"
+  url = "categories/publikationen/"
+  weight = -108
+
+[[main]]
+  name = "Über uns"
+  url = "about/"
+  weight = -107
+
+# social menu links
+
+[[social]]
+  name = "facebook"
+  type = "social"
+  weight = 1
+  url = "https://facebook.com/OGVEngi"
+[[social]]
+  name = "youtube"
+  weight = 2
+  url = "https://www.youtube.com/channel/UCCJwHN0lIsn7SBg6dFMsHYQ"
+[[social]]
+  name = "rss"
+  weight = 4
+  url = "index.xml"
+
+# other supported social links
+# name = "youtube"
+# url = "https://www.youtube.com/#"
+# name = "facebook"
+# url = "https://facebook.com/#"
+# name = "instagram"
+# url = "https://instagram.com/#"
+# name = "stackoverflow"
+# url = "https://stackoverflow.com/#"
+# name = "gitlab"
+# url = "https://gitlab.com/#"
+# name = "discord"
+# url = "https://discord.gg/#"

@@ -1,0 +1,105 @@
+# enable search
+enableSearch = false
+
+largeTwitterCard = false
+introDescription = "Wir erforschen die Geschichte von Engi und Umgebung und dokumentieren sie im Internet, in Publikationen, Vorträgen und Ausstellungen."
+introURL = "about/"
+description = "Wir erforschen die Geschichte von Engi und Umgebung und dokumentieren sie im Internet, in Publikationen, Vorträgen und Ausstellungen."
+keywords = ["Geschichte","Engi","Glarus","Schweiz"]
+
+# Google analytics Id
+ga_analytics = ""
+
+# Google tag manager
+google_tag_manager_id = ""
+
+# limit the number of taxonomies links shown on the sidebar of each page by default.
+numberOfTagsShown = 14
+
+# Whether to default to storing images and other assets in the `static` directory, or use Hugo page bundles.
+usePageBundles = false
+
+# Path variables
+# Images:
+imagesDir = "images/"
+# Icons:
+iconsDir = "icons/"
+# Fonts:
+fontsDir = "fonts/"
+# Videos:
+videoDir = "videos/"
+# Audio:
+audioDir = "audio/"
+
+# Social media sharing image: Will be used on Twitter, Facebook, LinkedIn, etc.
+# when a given page has no other image present.
+fallBackOgImage = "images/thumbnail.png"
+
+# Logo image
+logo = "logos/ogv-logo-dunkel.png"
+
+# center logo on navbar
+centerLogo = false
+
+# sets the maximum number of lines per codeblock. The codeblock will however be scrollable and expandable.
+codeMaxLines = 7
+
+# disable showing line numbers by default. Switch to `true` if you'd rather have them on.
+codeLineNumbers = false
+
+# enable math notation. Switch to `true` to enable mathjax in your site.
+enableMathNotation = false
+
+# directory(s) where your articles are located
+mainSections = ["about","ae_so","artikel","flurnamen-kurz","news","publikationen","zuercher"]
+
+# Label Non inline images on an article body
+figurePositionShow = false
+# you can toggle this behaviour on or off on per page using the same variable inside your articles frontmatter
+figurePositionLabel = "Figure"
+
+# Set the collapsed mobile navigation to either appear from the left or the right
+mobileNavigation = "left"
+
+enforceLightMode = false
+# enforceDarkMode = false
+
+# customize footer icon. see issue https://github.com/chipzoller/hugo-clarity/issues/77
+# footerLogo = "icons/copy.svg"
+
+# Title separator, default to |.
+# titleSeparator = "|"
+
+# Maximum number of recent posts. (default: 8)
+# numberOfRecentPosts = 8
+
+# Maximum number of featured posts. (default: 8)
+# numberOfFeaturedPosts = 8
+
+# Pin featured posts in list.
+# pinFeatured = true
+
+# Maximum number of pinned featured posts. (default: 8)
+# numberOfPinnedPosts = 8
+
+# Date format.
+dateFormat = "02.01.2006"
+# customFonts = false # toggle to true if you want to use custom fonts only.
+
+# The year when ths website was created, this value is used in the copyright
+# notice of the footer.
+since = 1995
+
+# Show related content
+showRelatedInArticle = true
+showRelatedInSidebar = false
+
+# website author
+[author]
+name = "OGV Engi"
+
+[plausible_analytics]
+enable = false # to enable plausible analytics set to true.
+
+[matomo_analytics]
+enable = false # To enable matomo analytics change to `true`.
