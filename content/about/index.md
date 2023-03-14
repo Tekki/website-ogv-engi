@@ -31,7 +31,7 @@ Mitgliederbeiträge:
 * Ehepaar 40.—
 * Kollektivmitglied 75.— pro Jahr
 
-{{< member-button >}}
+[Newsletter abonnieren](/news/2018-08-18-newsletter) oder gleich {{< member-button >}} 
 
 ![](r0002782.jpg)
 

@@ -7,6 +7,8 @@ categories: Publikationen
 unavailable: true
 usePageBundles: true
 thumbnail: flurnamen.jpg
+tags:
+  - Flurnamen
 ---
 
 {{< lead >}}
@@ -23,6 +25,3 @@ als lohnende und sinnvolle Aufgabe, dieses Wissen zu sammeln und zu sichern.
 {{< unavailable-block >}}
 Leider ist das Buch «Die Flurnamen von Engi» vergriffen.
 {{< /unavailable-block >}}
-
-**Hinweis:** Weitere Informationen zum Thema Flurnamen finden sich unter
-{{< tag-button "Flurnamen" >}}.

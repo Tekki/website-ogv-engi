@@ -7,6 +7,8 @@ categories: Publikationen
 usePageBundles: true
 thumbnail: stb.jpg
 unavailable: true
+tags:
+  - Sernftalbahn
 ---
 
 {{< lead >}}

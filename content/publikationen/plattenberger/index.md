@@ -6,6 +6,8 @@ author: Barbara Richner
 categories: Publikationen
 usePageBundles: true
 thumbnail: plattenberger.jpg
+tags:
+  - Plattenberg
 ---
 
 {{< lead >}}

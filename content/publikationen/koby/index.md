@@ -6,6 +6,8 @@ author: Anita Blumer
 categories: Publikationen
 usePageBundles: true
 thumbnail: koby.jpg
+tags:
+  - Auswanderung
 ---
 
 {{< lead >}}

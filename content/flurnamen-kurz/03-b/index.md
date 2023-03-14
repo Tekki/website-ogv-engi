@@ -6,6 +6,8 @@ series: Von A-Z
 usePageBundles: true
 featureImage: ../banner.jpg
 thumbnail: ../thumbnail.jpg
+parentTags:
+  - Flurnamen
 ---
 
 {{< lead >}}
@@ -100,4 +102,4 @@ Die *Stöggeberg* sind heute mehrere Bergliegenschaften über dem *Schlatt*
 Wydenstöcken*. *Stögg* sind die stehen gebliebenen Baumstrünke, aber auch die
 gerodeten Stellen selbst.
 
-{{< continue-button "../04-c" "Chreuel, Chugelris" >}}
+{{< continue-button "../04-c-d" "Chreuel, Chugelris, Diggewald" >}}

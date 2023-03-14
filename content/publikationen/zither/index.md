@@ -7,6 +7,8 @@ author: Adelheid Baumgartner
 categories: Publikationen
 usePageBundles: true
 thumbnail: zither.jpg
+tags:
+  - Musik
 ---
 
 {{< lead >}}

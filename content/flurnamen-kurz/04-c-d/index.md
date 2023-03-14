@@ -6,6 +6,8 @@ series: Von A-Z
 usePageBundles: true
 featureImage: ../banner.jpg
 thumbnail: ../thumbnail.jpg
+parentTags:
+  - Flurnamen
 ---
 
 {{< lead >}}
