@@ -1,0 +1,5 @@
+<div class="notices warning">
+  <div class="label">Vergriffen!</div>
+  {{- partial "image" (dict "file" $.Page.Params.thumbnail "Page" $.Page) }}
+  {{- .Inner | markdownify }}
+</div>

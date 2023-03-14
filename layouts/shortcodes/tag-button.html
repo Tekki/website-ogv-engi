@@ -1,0 +1,5 @@
+{{ $tag := replaceRE " " "-" (.Get 0) | lower }}
+{{ $title := upper $tag }}
+<a href="/tags/{{ $tag }}/" class="post_tag button button_translucent" title="{{ $tag }}">
+  {{ $title }}
+</a>

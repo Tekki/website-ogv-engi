@@ -1,0 +1,5 @@
+{{ $series := replaceRE " " "-" (.Get 0) | lower }}
+{{ $title := upper $series }}
+<a href="/series/{{ $series }}/" class="post_tag button button_translucent" title="{{ $series }}">
+  {{ $title }}
+</a>

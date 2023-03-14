@@ -1,0 +1,6 @@
+<div class="notices note">
+  <div class="label">Interessiert?</div>
+  {{- partial "image" (dict "file" $.Page.Params.thumbnail "Page" $.Page) }}
+  {{- .Inner | markdownify }}
+  <p><a class="button" href="javascript:sendmail(this, 'bestellung')">Bestellen</a></p>
+</div>

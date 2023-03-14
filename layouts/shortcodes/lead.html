@@ -1,0 +1,10 @@
+<div class="lead">
+  {{ if $.Page.Params.unavailable }}
+    [Vergriffen]<br>
+  {{ end }}
+  {{ $.Page.Params.description }}.
+  {{ with $.Page.Params.author }}
+    <br>
+    Von {{ . }}.
+  {{ end }}
+</div>
