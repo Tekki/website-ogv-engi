@@ -99,3 +99,5 @@ wurde: *Im Holz*, *Holzegg* oder sogar *Holzwald*.
 der Wald «gebannt», also geschützt war (Baa = Bann, ein Förster hiess früher
 Baawart). Die Baateili (Teili sind Waldabschnitte) liegen auf 1740 Metern in
 steilem Gelände unterhalb des *Gheistschwämmli*.
+
+{{< continue-button "../05-e-f" "Erlewüschi, Figebaumbödeli, Fürte" >}}
