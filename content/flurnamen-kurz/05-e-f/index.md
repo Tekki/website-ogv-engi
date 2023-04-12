@@ -83,3 +83,5 @@ eine Stelle, wo in einem Bach das Wasser gegen Steine prallt, wie es das an
 dieser Stelle in der Speicheruus auch tut. Der Name wurde später umgedeutet in
 Wage = Wagen, in einen Platz, wo die Heuwagen, heute die Autos abgestellt
 werden.
+
+{{< continue-button "../06-f-h" "Fuhr, Girestei, Hübel" >}}
