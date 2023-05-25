@@ -5,6 +5,8 @@
     xhtml = false
   [goldmark.extensions]
     typographer = false
+  [goldmark.parser]
+    wrapStandAloneImageWithinParagraph = true
   [highlight]
     codeFences = true
     guessSyntax = true
