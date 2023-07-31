@@ -95,3 +95,5 @@ anderswo *Gume* heissen würde. *Chumme* ist ein verbreiteter Flurname in den
 Walsergebieten Deutschbündens. Weiter unten am *Gufelstogg*, auf 970 Metern,
 liegt die Liegenschaft *Chleigädeli* (kleiner Stall) – ein walserdeutsches
 «chlei» in einer Gegend, wo man sonst «chlii» sagt?
+
+{{< continue-button "../07-i-m" "Iiseträt, Löffligeberg, Melchböde" >}}
