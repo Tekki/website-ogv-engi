@@ -5,6 +5,8 @@ description: Alltagsgeschichten aus der Zeit des Übergangs vom 19. ins 20. Jahr
 author: Adelheid Baumartner
 categories:
   - Videos
+tags:
+  - Alltagsleben
 series: Ä so isch es gsi
 thumbnail: /publikationen/ae_so/thumbnail.jpg
 ---
@@ -15,8 +17,8 @@ thumbnail: /publikationen/ae_so/thumbnail.jpg
 
 {{< big "Äso isch es gsi (So ist es gewesen, How things used to be in the Glarnerland)" >}}
 
-Heitere und ernste Geschichten, Begebenheiten und Erlebnisse aus dem Sernftal,
-Kanton Glarus, aus dem Ende des 19. und Anfang des 20. Jahrhunderts. Erzählt in
-Schweizerdeutsch von Adelheid Baumgartner.
+Heitere, ernste und groteske Geschichten aus dem Sernftal, Kanton
+Glarus, aus dem Ende des 19. und Anfang des 20. Jahrhunderts. Erzählt
+in Schweizerdeutsch von Adelheid Baumgartner.
 
-Deutsche Untertitel: Rolf Stöckli, Englische Untertitel: Sally Leuzinger.
+Deutsche Untertitel: Rolf Stöckli. English subtitles: Sally Leuzinger.

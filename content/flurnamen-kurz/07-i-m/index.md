@@ -69,8 +69,7 @@ die Kühe zum Melken hinstellte. Nach dem Abendmelken wurden die Kühe
 auf die *Abedweid* getrieben. Dort, wo es *Leger* oder *im Leger*
 heisst, befanden sich Lagerplätze für das Vieh.
 
-![Der Name Altstafel deutet auf ein nicht mehr bestehendes Alpgebäude
-hin.](p7025704.jpg)
+![Der Name «Altstafel» deutet auf ein nicht mehr bestehendes Alpgebäude hin.](p7025704.jpg)
 
 Wo Käse hergestellt wird, brauchte und braucht es den *Chäsgade*. Dort
 wird der Käse bis zur Alpabfahrt gelagert. Mit der *Sirte* (oder
@@ -83,3 +82,5 @@ steht heute eine Skihütte. Der Name *Altstafel* deutet auf ein nicht
 mehr bestehendes Alpgebäude hin. Dass er ein Gebiet im *Hinderdorf*
 von Engi bezeichnet, könnte bedeuten, dass dieses einst als
 Sommerweide für Vieh von auswärts diente.
+
+{{< continue-button "../08-n-o" "Neue Namen, Oberrütiacher" >}}
