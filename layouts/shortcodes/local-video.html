@@ -2,7 +2,7 @@
 {{ $lang := (dict "de" "Deutsch" "en" "English") }}
 <div class="video">
   <video width="100%" height="auto" controls>
-    <source src="{{ $path }}.webm">
+    <source src="{{ $path }}.mp4">
 {{ range after 1 .Params }}
     <track
       label="{{ index $lang . }}"
