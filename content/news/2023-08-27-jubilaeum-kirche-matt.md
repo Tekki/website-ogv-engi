@@ -7,10 +7,10 @@ categories:
 tags:
 thumbnail: /news/2023-08-27-thumbnail.jpg
 ---
-Am ersten Septemberwochenende kann die Kirchgemeinde Matt-Engi das
-750-jährige Bestehen der ältesten Kirche im Kanton Glarus
-feiern. Dieser Anlass ist von historischer Bedeutung, auch der
-Ortsgeschichtsverein Engi weiss ihn zu würdigen.
+Am ersten Septemberwochenende feiert die Kirchgemeinde Matt-Engi das
+750-jährige Bestehen der ältesten Kirche im Kanton Glarus. Dieser
+Anlass ist von historischer Bedeutung, auch der Ortsgeschichtsverein
+Engi weiss ihn zu würdigen.
 
 ![Die Kirche Matt auf einer Aufnahme aus der Mitte des 20. Jahrhunderts.](/news/2023-08-27-kirche.jpg)
 
@@ -49,6 +49,8 @@ erscheinen, deren Erstellung vom Ortsgeschichtsverein Engi finanziell
 unterstützt wird.
 
 ## Die Feierlichkeiten vom September 2023
+
+![Der Festgottesdienst vom 3. September 2023.](/news/2023-08-27-kirche2.jpg)
 
 Die Feierlichkeiten finden vom Freitag, 01.09.2023 bis Sonntag,
 03.02.2023 statt. Die Teilnahme an den Aktivitäten und die Verpflegung

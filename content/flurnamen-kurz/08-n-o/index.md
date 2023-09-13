@@ -84,3 +84,5 @@ Getreidesorte, gedeiht bis auf 1400 Meter. Oder wurde hier Unkraut,
 umgangssprachlich auch Spelt, gemäht und als Streue benutzt? Die
 späteren Kartoffeläcker und Pflanzplätze heissen auch *Saaten* oder
 *Rüti*.
+
+{{< continue-button "../09-r" "Rigi, Ringge, Rollhaferus" >}}

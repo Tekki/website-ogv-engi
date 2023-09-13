@@ -83,8 +83,7 @@ davon, auf den *Wisseberg* (Matt) deutet der Name der Liegenschaft *Waldibach*
 (1485 Meter) auf Walsereinfluss hin: Ein *Waldi* ist walserdeutsch ein kleines
 Waldstück. Der Bach selber heisst dort *Waldibachruus*.
 
-![Im Chummeberg siedelten vermutlich zugewanderte Walser. Diese bezeichneten
-eine Mulde als Chumme.](p7055734.jpg)
+![Im «Chummeberg» siedelten vermutlich zugewanderte Walser. Diese bezeichneten eine Mulde als «Chumme».](p7055734.jpg)
 
 Auch der Name des *Chummeberg*, einer Bergliegenschaft auf 1100 Metern am
 Gufelstogg, könnte von Walser Zuwanderern stammen: Die Bezeichnung «chumme»
