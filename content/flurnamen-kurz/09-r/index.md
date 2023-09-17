@@ -75,16 +75,17 @@ Gegenständen hergeleitet: *Ds Brusttuech* (der Latz bei der
 Frauentracht, hier ein Waldstück unterhalb des *Gheistschwämmli*); d
 Gibelegg (Dachgiebelförmiges Waldstück, der Fussweg führt auf dem
 Giebel, der Krete, hinauf Richtung *Chuefittere*); *dr Huet*
-(Hutförmige Erhebung auf dem Grenzgrat zum sankt-galler Murgtal); ds
-Saggbödeli (eine sackförmige Ausbuchtung der Weide unter dem
-Cholgruebeloch); ds Tor (ein kleiner Sattel unterhalb des Mageräu); dr
-Triangel (eine spitz zulaufende, dreieckige Waldfläche unterhalb der
-Gufeli Risene); dr Tritt (ein stufenförmiges Wegstück unterhalb des
-Tänzer); dr Trog (eine trogartige Geländevertiefung am Schlattberg);
-dr Ture (ein schmales, steiles Wegstück mit vielen Serpentinen,
-ähnlich der Treppe in einem Turm, zwischen dem undere und dem mittlere
-Chräuel); ds Wiegli (eine wiegenförmige Geländeeinbuchtung an einem
-Grat unterhalb des Heustogg).
+(Hutförmige Erhebung auf dem Grenzgrat zum sankt-galler Murgtal); *ds
+Saggbödeli* (eine sackförmige Ausbuchtung der Weide unter dem
+*Cholgruebeloch*); *ds Tor* (ein kleiner Sattel unterhalb des
+Mageräu); *dr Triangel* (eine spitz zulaufende, dreieckige Waldfläche
+unterhalb der *Gufeli Risene*); *dr Tritt* (ein stufenförmiges
+Wegstück unterhalb des *Tänzer*); *dr Trog* (eine trogartige
+Geländevertiefung am *Schlattberg*); *dr Ture* (ein schmales, steiles
+Wegstück mit vielen Serpentinen, ähnlich der Treppe in einem Turm,
+zwischen dem undere und dem mittlere *Chräuel*); *ds Wiegli* (eine
+wiegenförmige Geländeeinbuchtung an einem Grat unterhalb des
+*Heustogg*).
 
 ## Rollhaferuus
 

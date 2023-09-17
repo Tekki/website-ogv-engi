@@ -53,7 +53,7 @@ unterstützt wird.
 ![Der Festgottesdienst vom 3. September 2023.](/news/2023-08-27-kirche2.jpg)
 
 Die Feierlichkeiten finden vom Freitag, 01.09.2023 bis Sonntag,
-03.02.2023 statt. Die Teilnahme an den Aktivitäten und die Verpflegung
+03.09.2023 statt. Die Teilnahme an den Aktivitäten und die Verpflegung
 sind kostenlos.
 
 ### Freitag 01.09.2023 ab 17:00
