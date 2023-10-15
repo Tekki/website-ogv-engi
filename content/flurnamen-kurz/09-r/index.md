@@ -108,3 +108,5 @@ Unwettern Weideland, Strassen und Gebäude. Alle haben einen Namen, der
 sich entweder auf die Lage bezieht (*Badchopfruus*, *Bödeliruus*,
 *Erleruus*, *Hochwandruus*) oder eine Besonderheit ausdrückt
 (*Gelbrüsli*, *Nasstrittruus*, *Trocheruus*, *Wasserruus*).
+
+{{< continue-button "../10-s" "Schräje, Siwelle" >}}
