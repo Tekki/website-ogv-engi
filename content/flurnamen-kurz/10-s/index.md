@@ -103,3 +103,5 @@ wurden und werden. Viele dieser Berg-Namen geben ihren einstigen
 Besitzer bekannt, so *dr Altmeberg, dr Gigerberg, ds Josebergli* oder
 enthalten eine Angabe der Lage wie *dr Chräuelberg* oder *dr
 Chummeberg*.
+
+{{< continue-button "../11-t-u" "Tagwesblänggli, Üblital" >}}
