@@ -106,3 +106,5 @@ stammen auch die mittelalterlichen «Hüttenmäler». Es sind
 Pferchmauern, die man über dem *Cholgruebewald*, unterhalb der
 *Glattmatt* und über der *Chammwand* findet: Zeugen früher, in
 Einzelsennerei betriebener Alpwirtschaft.
+
+{{< continue-button "../12-v-z" "Vogelsang, Werbe, Zindel" >}}
