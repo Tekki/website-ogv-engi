@@ -54,7 +54,6 @@ Allmeindstrasse 33
 - Didi Bäbler
 - Julia Dällenbach (Kassierin)
 - Leni Takihara
-- Jakob Schneider
 - Sara Zimmermann (Aktuarin)
 
 ![](cddb13.jpg)
@@ -62,8 +61,8 @@ Allmeindstrasse 33
 ## Vereinsgeschichte
 
 Unser Verein besteht seit 1995. Er wurde ursprünglich gegründet, um die
-Publikation des ortsgeschichtlichen Dokumentationsbandes Engi – Ein
-historischer Spaziergang zu unterstützen. Seither wurden viele weitere
+Publikation des ortsgeschichtlichen Dokumentationsbandes «Engi – Ein
+historischer Spaziergang» zu unterstützen. Seither wurden viele weitere
 Projekte erfolgreich durchgeführt. Die jeweils im ersten Halbjahr
 stattfindenden Hauptversammlungen werden gerne auch von Heimweh-Engelern
 besucht. Der Ortsgeschichtsverein hat zurzeit ungefähr 230 Mitglieder.
@@ -76,8 +75,8 @@ besucht. Der Ortsgeschichtsverein hat zurzeit ungefähr 230 Mitglieder.
 
 #### Artikel 1
 
-Unter dem Namen „Verein zur Erforschung und Dokumentation der Ortsgeschichte
-von Engi“ (im folgenden Ortsgeschichtsverein) wurde am 30. Juni 1993 eine
+Unter dem Namen «Verein zur Erforschung und Dokumentation der Ortsgeschichte
+von Engi» (im folgenden Ortsgeschichtsverein) wurde am 30. Juni 1993 eine
 Organisation gegründet, die im Sinne von Art. 60 ff. ZGB einen Verein bildet
 mit Sitz in Engi.
 
