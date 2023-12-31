@@ -1,0 +1,24 @@
+---
+title: Altjaaraabed und Nüüjahr
+date: 2023-12-31
+description: Alltagsgeschichten aus der Zeit des Übergangs vom 19. ins 20. Jahrhundert
+author: Adelheid Baumartner
+categories:
+  - Videos
+tags:
+  - Alltagsleben
+series: Ä so isch es gsi
+thumbnail: /publikationen/ae_so/thumbnail.jpg
+---
+
+{{< lead >}}
+
+{{< local-video "ae_so/3-8" "de" >}}
+
+{{< big "Äso isch es gsi (So ist es gewesen)" >}}
+
+Heitere, ernste und groteske Geschichten aus dem Sernftal, Kanton
+Glarus, aus dem Ende des 19. und Anfang des 20. Jahrhunderts. Erzählt
+in Schweizerdeutsch von Adelheid Baumgartner.
+
+Deutsche Untertitel: Rolf Stöckli.
