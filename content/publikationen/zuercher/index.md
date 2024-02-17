@@ -39,6 +39,6 @@ Gerne senden wir Ihnen die DVD «Engi 1958 – 1972» zum Preis von **35.—** p
 Versandkosten.
 {{< /order-block >}}
 
-**Hinweis:** Die Filme von Fritz Zürcher werden nach und nach auf dieser
-Homepage unter {{< series-button "Filme 1958-1972" >}} und auf YouTube
-veröffentlicht.
+**Auch online verfügbar:** Die Filme von Fritz Zürcher wurden auch auf
+dieser Homepage unter {{< series-button "Filme 1958-1972" >}} und auf
+unserem YouTube-Kanal veröffentlicht.
