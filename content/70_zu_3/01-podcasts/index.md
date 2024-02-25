@@ -1,0 +1,42 @@
+---
+title: Von 70 zu 3
+date: 2024-03-02T01:00:00
+description: Podcasts zur Gemeindefusion im Kanton Glarus
+tags:
+  - Politik
+series: Von 70 zu 3
+usePageBundles: true
+featureImage: banner.jpg
+thumbnail: ../thumbnail.jpg
+featured: true
+---
+
+{{< lead >}}
+
+Am 1. Januar 2011 entstanden im Kanton Glarus aus 25 Ortsgemeinden, 18
+Schulgemeinden und 9 Tagwen die drei Einheitsgemeinden Glarus Süd,
+Glarus und Glarus Nord. Der Ortsgeschichtsverein Engi ist der
+Entstehung dieser tiefgreifenden Gebietsreform in einer Podcast-Reihe
+nachgegangen.
+
+Dazu wurden in Interviews direkt beteiligte Personen befragt. Sie
+geben über die Situation vor der Gemeindefusion, ihre Erlebnisse an
+den beiden Landsgemeinden, die Arbeit der Umsetzung und ihre heutige
+Einschätzung der Strukturreform Auskunft. Ihre Äusserungen werden mit
+Material aus unzähligen Quellen und einem historischen Rückblick in
+einen grösseren Kontext gestellt.
+
+Die Interviewpartner sind:
+* Kurt Reifler, Antragssteller für 3 Gemeinden, Gemeinderat Glarus Süd
+* August Rohr, Historiker, Sekretär der Region Glarner
+  Hinterland-Sernftal
+* Fritz Schiesser, alt-Ständerat, Projektleiter im Landrat
+* Mathias Zopfi, Ständerat, Gemeinderat Glarus Süd
+
+Recherche, Sprecher: Ivo Oertli
+
+Projektleitung, Technik: Rolf Stöckli
+
+Finanzierung: Ortsgeschichtsverein Engi
+
+{{< continue-button "../02-ep0" "Einleitung" >}}

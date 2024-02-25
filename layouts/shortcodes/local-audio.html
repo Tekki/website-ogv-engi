@@ -1,0 +1,6 @@
+{{ $path := printf "/%s%s" $.Site.Params.audioDir (.Get 0) }}
+<div class="audio">
+  <audio width="100%" height="auto" controls>
+    <source src="{{ $path }}.mp3">
+  </audio>
+</div>

@@ -51,7 +51,7 @@ codeLineNumbers = false
 enableMathNotation = false
 
 # directory(s) where your articles are located
-mainSections = ["about","ae_so","artikel","flurnamen-kurz","news","publikationen","zuercher"]
+mainSections = ["about","ae_so","artikel","flurnamen-kurz","news","publikationen","zuercher","70_zu_3"]
 
 # Label Non inline images on an article body
 figurePositionShow = false
