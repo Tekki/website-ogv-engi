@@ -23,7 +23,7 @@ spannender.
 Ivo Oertli führt in die Podcast-Reihe ein, erzählt von den Vorarbeiten
 und stellt die Interviewpartner vor.
 
-Recherche, Sprecher: Ivo Oertli
+Host: Ivo Oertli
 
 Projektleitung, Technik: Rolf Stöckli
 

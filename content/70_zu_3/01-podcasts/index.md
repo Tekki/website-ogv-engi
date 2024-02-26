@@ -27,13 +27,16 @@ Material aus unzähligen Quellen und einem historischen Rückblick in
 einen grösseren Kontext gestellt.
 
 Die Interviewpartner sind:
-* Kurt Reifler, Antragssteller für 3 Gemeinden, Gemeinderat Glarus Süd
-* August Rohr, Historiker, Sekretär der Region Glarner
-  Hinterland-Sernftal
-* Fritz Schiesser, alt-Ständerat, Projektleiter im Landrat
-* Mathias Zopfi, Ständerat, Gemeinderat Glarus Süd
+* Kurt Reifler, Antragssteller für 3 Gemeinden, ehemaliger Gemeinderat
+  Glarus Süd
+* August Rohr, Historiker, ehemaliger Gemeinderat Diesbach und
+  Sekretär der Region Glarner Hinterland-Sernftal
+* Fritz Schiesser, alt-Ständerat und alt-Landrat, Projektleiter der
+  Gemeindestrukturreform
+* Mathias Zopfi, ehemaliger Gemeinderat Glarus Süd, Landrat, seit 2019
+  Ständerat
 
-Recherche, Sprecher: Ivo Oertli
+Host: Ivo Oertli
 
 Projektleitung, Technik: Rolf Stöckli
 
