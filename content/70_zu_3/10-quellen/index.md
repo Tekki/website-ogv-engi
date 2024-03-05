@@ -1,6 +1,6 @@
 ---
 title: Quellen
-date: 2024-03-09T08:00:00
+date: 2024-03-09T08:00:00+01:00
 description: Quellenangaben zu den Podcasts zur Gemeindefusion
 parenttags:
   - Politik
@@ -23,7 +23,7 @@ Matthias Zopfi, 01.09.2022
 
 Kurt Reifler, 02.09.2022 
 
-### Amtliche Dokumente
+### Dokumente
 
 Regionalverein Glarner-Hinterland Sernftal, *Gemeinsam eigenständig im
 Sernftal, Schlussbericht zum Projekt der Region GHS vom Oktober bis
@@ -42,7 +42,7 @@ Kanton Glarus, Staatskanzlei, *Protokoll der Landsgemeinde vom 7. Mai
 abgerufen am 26.02.2024).
 
 Kanton Glarus, *Memorial für die ausserordentliche Landsgemeinde des
-Kantons Glarus 2007*. Glarus: Spälti Druck AG 2007.
+Kantons Glarus 2007*. Glarus: Spälti Druck 2007.
 [Link](http://www.landsgemeinde.gl.ch/sites/default/files/2007ao/memorial/memorial.pdf)
 
 Kanton Glarus, Staatskanzlei, *Protokoll der ausserordentlichen
@@ -72,7 +72,7 @@ Karin und Hanspeter Marti-Weissenbach, Ortsgeschichtsverein Engi
  
 August Rohr, *Radikale Gemeindestrukturreform im Kanton Glarus*, in:
 Stiftung Neujahrsbote (Hrsg.), *Neujahrsbote für das Glarner
-Hinterland*. Glarus: Spälti Druck AG 2007.
+Hinterland*. Glarus: Spälti Druck 2007.
 
 Sara Carnazzi Weber, Christian Etzensperger, Philippe Kaufmann, Thomas
 Rühl, Nora Sydow, *Swiss Issues Regionen, Der Kanton Glarus: Struktur
@@ -117,7 +117,7 @@ Südostschweiz, 16.01.2021.
 
 ### Audio und Video
 
-Kanton Glarus, Audio-Archiv, *Landsgemeinde 2006*. Glarus: 2006,
+Kanton Glarus, Audio-Archiv, *Landsgemeinde 2006*. Glarus: 2006
 ([Link](https://landsgemeinde.gl.ch/landsgemeinde/2006), abgerufen am
 26.02.2024).
 
@@ -132,6 +132,6 @@ Radio Central 05.09.2013
 26.02.2024).
 
 Patric Kees, *Die neue Landsgemeinde Doku*. Chur: Südostschweiz-TV
-2023
+05.09.2023
 ([Link](https://www.suedostschweiz.ch/sendungen/rondo-magazin/die-neue-landsgemeinde-doku-05-09-23),
 abgerufen am 26.02.2024).

@@ -1,0 +1,20 @@
+---
+
+channel:
+  author: Ortsgeschichtsverein Engi
+  directories:
+    - 70_zu_3
+  category: History
+  copyright: OGV Engi
+  description: Wir erforschen und dokumentieren die Geschichte von Engi, Kanton Glarus und Umgebung.
+  email: info@ogv-engi.ch
+  explicit: false
+  image: logos/podcast_70_zu_3.jpg
+  language: de-ch
+  serial: true
+  title: Ortsgeschichtsverein Engi
+  website:
+    base: ogv-engi.ch
+    feed: feed/podcast.rss
+    link: podcast.ogv-engi.ch
+    target: ogv-engi.ch/70_zu_3/01-podcasts

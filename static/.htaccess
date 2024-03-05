@@ -1,14 +1,12 @@
+
+RewriteEngine on
+RewriteOptions inherit
+
 ErrorDocument 404 /404.html
 
-Redirect 301 /newsletter /news/2018-08-18-newsletter
-Redirect 301 /impressum /about
-Redirect 301 /publikationen/video /publikationen/zuercher
-Redirect 301 /objekte/w2Os /artikel/ein-kreuz
-Redirect 301 /objekte/vRtg /artikel/kloental
-Redirect 301 /objekte/5Q29 /artikel/il-convitto
-Redirect 301 /objekte/eN3n /ae_so/03-waeschtag
-Redirect 301 /objekte/Vgo7 /flurnamen-kurz/01-einleitung
-Redirect 301 /objekte/YSjZ /flurnamen-kurz/02-a
-Redirect 301 /objekte/yYti /flurnamen-kurz/03-b
-Redirect 301 /objekte/kGPu /flurnamen-kurz/04-c-d
-Redirect 301 /objekte/vAzU /zuercher/02-alltag-im-maedchenheim
+RewriteCond %{HTTP_HOST} ^podcast\.ogv\-engi\.ch$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.podcast\.ogv\-engi\.ch$
+RewriteRule ^/? "https\:\/\/ogv\-engi\.ch\/70_zu_3\/01\-podcasts\/" [R=307,L]
+
+Redirect 307 /object/yhoC0 /70_zu_3/02-ep0/
+

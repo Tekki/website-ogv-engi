@@ -1,0 +1,6 @@
+{{ $path := printf "/%s%s" $.Site.Params.audioDir $.Page.Params.podcast.audio_file }}
+<div class="audio">
+  <audio width="100%" height="auto" controls>
+    <source src="{{ $path }}">
+  </audio>
+</div>
