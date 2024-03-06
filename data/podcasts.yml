@@ -11,8 +11,12 @@ channel:
   explicit: false
   image: logos/podcast_70_zu_3.jpg
   language: de-ch
+  platforms:
+    apple: von-70-zu-3/id1734658580
+    spotify: 65WGZYfMwizOja7r6S7O9n
+    youtube: '@ogvengi9812'
   serial: true
-  title: Ortsgeschichtsverein Engi
+  title: Von 70 zu 3
   website:
     base: ogv-engi.ch
     feed: feed/podcast.rss

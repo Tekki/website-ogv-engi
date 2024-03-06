@@ -6,7 +6,7 @@ ErrorDocument 404 /404.html
 
 RewriteCond %{HTTP_HOST} ^podcast\.ogv\-engi\.ch$ [OR]
 RewriteCond %{HTTP_HOST} ^www\.podcast\.ogv\-engi\.ch$
-RewriteRule ^/? "https\:\/\/ogv\-engi\.ch\/70_zu_3\/01\-podcasts\/" [R=307,L]
+RewriteRule ^/?$ "https\:\/\/ogv\-engi\.ch\/70_zu_3\/01\-podcasts\/" [R=307,L]
 
 Redirect 307 /object/yhoC0 /70_zu_3/02-ep0/
 

@@ -2,6 +2,8 @@
 title: 'Episode 4: Eine kleine Revolution'
 date: 2024-03-09T04:00:00+01:00
 description: Die Vorlage für eine neue Gemeindeorganisation kommt vor die Landsgemeinde
+categories:
+  - Podcasts
 parenttags:
   - Politik
 series: Von 70 zu 3
@@ -36,3 +38,5 @@ Finanzierung: Ortsgeschichtsverein Engi
 [Quellenangaben](../10-quellen)
 
 {{< continue-button "../07-ep5" "Ds Wort gilt" >}}
+
+{{< podcast-platforms >}}

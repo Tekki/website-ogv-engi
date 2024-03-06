@@ -2,6 +2,8 @@
 title: 'Episode 7: Eine neue Welt'
 date: 2024-03-09T07:00:00+01:00
 description: Vom Blick zurück zum Blick auf die Gegenwart
+categories:
+  - Podcasts
 parenttags:
   - Politik
 series: Von 70 zu 3
@@ -39,3 +41,5 @@ Projektleitung, Technik: Rolf Stöckli
 Finanzierung: Ortsgeschichtsverein Engi
 
 [Quellenangaben](../10-quellen)
+
+{{< podcast-platforms >}}

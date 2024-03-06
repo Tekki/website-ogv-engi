@@ -2,6 +2,8 @@
 title: 'Episode 3: Die Wende'
 date: 2024-03-09T03:00:00+01:00
 description: Nach den Jahren der Krise folgt ein Jahr des Umschwungs
+categories:
+  - Podcasts
 parenttags:
   - Politik
 series: Von 70 zu 3
@@ -37,3 +39,5 @@ Finanzierung: Ortsgeschichtsverein Engi
 [Quellenangaben](../10-quellen)
 
 {{< continue-button "../06-ep4" "Eine kleine Revolution" >}}
+
+{{< podcast-platforms >}}

@@ -9,35 +9,37 @@
 >
 
 <channel>
-<title>Ortsgeschichtsverein Engi</title>
+<title>Von 70 zu 3</title>
 <link>https://podcast.ogv-engi.ch</link>
 <description>Wir erforschen und dokumentieren die Geschichte von Engi, Kanton Glarus und Umgebung.</description>
 <language>de-ch</language>
 <copyright>&#xA9; 2024 OGV Engi</copyright>
-<itunes:explicit>false</itunes:explicit>
-<itunes:type>serial</itunes:type>
-<itunes:owner><itunes:email>info@ogv-engi.ch</itunes:email><itunes:name>Ortsgeschichtsverein Engi</itunes:name></itunes:owner>
 <itunes:category text="History"/>
+<itunes:explicit>false</itunes:explicit>
 <itunes:image href="https://ogv-engi.ch/logos/podcast_70_zu_3.jpg"/>
 <itunes:author>Ortsgeschichtsverein Engi</itunes:author>
+<itunes:owner><itunes:email>info@ogv-engi.ch</itunes:email><itunes:name>Ortsgeschichtsverein Engi</itunes:name></itunes:owner>
+<itunes:type>serial</itunes:type>
 <atom:link href="https://ogv-engi.ch/feed/podcast.rss" rel="self" type="application/rss+xml"/>
 
 <item>
 <title>Von 70 zu 3: Einleitung</title>
 <link>https://ogv-engi.ch/70_zu_3/02-ep0/</link>
-<description>Wer sich je gefragt hat, weshalb und wie das neue Konstrukt von drei Gemeinden erschaffen wurde, ist hier am richtigen Ort. Und f&#xFC;r diejenigen, die sich dies noch nie gefragt haben, wird es umso spannender.
+<description>Es gab einmal eine Zeit, in der der Kanton Glarus aus &#xFC;ber 70 verschiedenen Gemeinden bestand. Heute sind es noch deren drei.
+Wer sich je gefragt hat, weshalb und wie das neue Konstrukt von drei Gemeinden erschaffen wurde, ist hier am richtigen Ort. Und f&#xFC;r diejenigen, die sich dies noch nie gefragt haben, wird es umso spannender.
 Ivo Oertli f&#xFC;hrt in die Podcast-Reihe ein, erz&#xE4;hlt von den Vorarbeiten und stellt die Interviewpartner vor.
 Host: Ivo Oertli
 Projektleitung, Technik: Rolf St&#xF6;ckli
-Finanzierung: Ortsgeschichtsverein Engi
-</description>
+Finanzierung: Ortsgeschichtsverein Engi</description>
 <author>info@ogv-engi.ch</author>
 <guid isPermaLink="true">https://ogv-engi.ch/object/yhoC0</guid>
 <pubDate>Sat, 2 Mar 2024 02:00:00 +0100</pubDate>
-<enclosure type="audio/mpeg" url="https://ogv-engi.ch/audio/70_zu_3/ep0.mp3" length="2906104" />
+<enclosure url="https://ogv-engi.ch/audio/70_zu_3/ep0.mp3" length="2906104" type="audio/mpeg" />
 <itunes:explicit>false</itunes:explicit>
 <itunes:duration>203</itunes:duration>
-<content:encoded><![CDATA[<p>Wer sich je gefragt hat, weshalb und wie das neue Konstrukt von drei
+<content:encoded><![CDATA[<p>Es gab einmal eine Zeit, in der der Kanton Glarus aus über 70 verschiedenen Gemeinden bestand. Heute sind es noch deren drei.</p>
+
+<p>Wer sich je gefragt hat, weshalb und wie das neue Konstrukt von drei
 Gemeinden erschaffen wurde, ist hier am richtigen Ort. Und für
 diejenigen, die sich dies noch nie gefragt haben, wird es umso
 spannender.</p>

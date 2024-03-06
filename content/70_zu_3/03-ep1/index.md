@@ -2,6 +2,8 @@
 title: 'Episode 1: Das neue Jahrtausend'
 date: 2024-03-09T01:00:00+01:00
 description: Der Kanton Glarus und seine Gemeinden sehen sich in den frühen 2000er-Jahren mit vielfältigen Problemstellungen konfrontiert
+categories:
+  - Podcasts
 parenttags:
   - Politik
 series: Von 70 zu 3
@@ -42,3 +44,5 @@ Finanzierung: Ortsgeschichtsverein Engi
 [Quellenangaben](../10-quellen)
 
 {{< continue-button "../04-ep2" "Der Blick zurück" >}}
+
+{{< podcast-platforms >}}

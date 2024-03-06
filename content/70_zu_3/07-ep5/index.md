@@ -2,6 +2,8 @@
 title: 'Episode 5: Ds Wort gilt'
 date: 2024-03-09T05:00:00+01:00
 description: Der Entscheid der Landsgemeinde wird angefochten
+categories:
+  - Podcasts
 parenttags:
   - Politik
 series: Von 70 zu 3
@@ -45,3 +47,5 @@ Finanzierung: Ortsgeschichtsverein Engi
 [Quellenangaben](../10-quellen)
 
 {{< continue-button "../08-ep6" "Bestellt und geliefert" >}}
+
+{{< podcast-platforms >}}

@@ -135,3 +135,5 @@ Patric Kees, *Die neue Landsgemeinde Doku*. Chur: Südostschweiz-TV
 05.09.2023
 ([Link](https://www.suedostschweiz.ch/sendungen/rondo-magazin/die-neue-landsgemeinde-doku-05-09-23),
 abgerufen am 26.02.2024).
+
+{{< podcast-platforms >}}

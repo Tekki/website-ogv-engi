@@ -2,6 +2,8 @@
 title: 'Episode 6: Bestellt und geliefert'
 date: 2024-03-09T06:00:00+01:00
 description: Dem Kanton bleiben gerade noch vier Jahre für die Umsetzung der Gemeindestrukturreform
+categories:
+  - Podcasts
 parenttags:
   - Politik
 series: Von 70 zu 3
@@ -36,3 +38,5 @@ Finanzierung: Ortsgeschichtsverein Engi
 [Quellenangaben](../10-quellen)
 
 {{< continue-button "../09-ep7" "Eine neue Welt" >}}
+
+{{< podcast-platforms >}}

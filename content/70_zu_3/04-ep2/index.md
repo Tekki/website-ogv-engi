@@ -2,6 +2,8 @@
 title: 'Episode 2: Der Blick zurück'
 date: 2024-03-09T02:00:00+01:00
 description: An der Jahrtausendwende war die kommunale Struktur des Kantons Glarus vielfältig bis unübersichtlich
+categories:
+  - Podcasts
 parenttags:
   - Politik
 series: Von 70 zu 3
@@ -38,3 +40,5 @@ Finanzierung: Ortsgeschichtsverein Engi
 [Quellenangaben](../10-quellen)
 
 {{< continue-button "../05-ep3" "Die Wende" >}}
+
+{{< podcast-platforms >}}

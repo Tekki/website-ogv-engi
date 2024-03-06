@@ -2,6 +2,8 @@
 title: 'Von 70 zu 3: Die Gemeindefusion als Podcast'
 date: 2024-03-02T01:00:00+01:00
 description: Dokumentation zur Gemeindestrukturreform im Kanton Glarus
+categories:
+  - Podcasts
 tags:
   - Politik
 series: Von 70 zu 3
@@ -43,3 +45,5 @@ Projektleitung, Technik: Rolf Stöckli
 Finanzierung: Ortsgeschichtsverein Engi
 
 {{< continue-button "../02-ep0" "Einleitung" >}}
+
+{{< podcast-platforms >}}
