@@ -1,7 +1,7 @@
 ---
 title: Quellen
 date: 2024-03-09T08:00:00+01:00
-description: Quellenangaben zu den Podcasts zur Gemeindefusion
+description: Quellenangaben zu den Podcasts zur Glarner Gemeindestrukturreform
 parenttags:
   - Politik
 series: Von 70 zu 3

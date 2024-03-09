@@ -8,5 +8,19 @@ RewriteCond %{HTTP_HOST} ^podcast\.ogv\-engi\.ch$ [OR]
 RewriteCond %{HTTP_HOST} ^www\.podcast\.ogv\-engi\.ch$
 RewriteRule ^/?$ "https\:\/\/ogv\-engi\.ch\/70_zu_3\/01\-podcasts\/" [R=307,L]
 
+Redirect 307 /object/OYLlV /70_zu_3/09-ep7/
+
+Redirect 307 /object/0Ucap /70_zu_3/08-ep6/
+
+Redirect 307 /object/a22FF /70_zu_3/07-ep5/
+
+Redirect 307 /object/AZ1dE /70_zu_3/06-ep4/
+
+Redirect 307 /object/FrDqY /70_zu_3/05-ep3/
+
+Redirect 307 /object/7erva /70_zu_3/04-ep2/
+
+Redirect 307 /object/uSKeF /70_zu_3/03-ep1/
+
 Redirect 307 /object/yhoC0 /70_zu_3/02-ep0/
 
