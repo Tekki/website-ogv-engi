@@ -4,11 +4,11 @@
 {{ if $channel.platforms.spotify }}
 • <a href="https://open.spotify.com/show/{{ $channel.platforms.spotify }}">Spotify</a>
 {{ end }}
-{{ if $channel.platforms.google }}
-• <a href="https://podcasts.google.com/feed/{{ $channel.platforms.google }}">Google Podcasts</a>
-{{ end }}
 {{ if $channel.platforms.apple }}
 • <a href="https://podcasts.apple.com/ch/podcast/{{ $channel.platforms.apple }}">Apple</a>
+{{ end }}
+{{ if $channel.platforms.google }}
+• <a href="https://podcasts.google.com/feed/{{ $channel.platforms.google }}">Google Podcasts</a>
 {{ end }}
 {{ if $channel.platforms.youtube }}
 • <a href="https://youtube.com/{{ $channel.platforms.youtube }}/podcasts">YouTube</a>
