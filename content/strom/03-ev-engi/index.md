@@ -65,7 +65,7 @@ Bergen Licht, weil sich dort auch Hauptschieber der Wasserversorgung
 befanden. Mehr lag nicht drin, da die Weseta im Winter knapp an
 Energie war. 1921 kündigte die Weseta den bestehenden Liefervertrag
 für die Strassenbeleuchtung. Neu musste die Gemeinde für die 25
-Strassenlampen à 32 Kerzen den normalen KWh-Preis von 54 Rappen
+Strassenlampen à 32 Kerzen den normalen kWh-Preis von 54 Rappen
 bezahlen, immerhin mit 20 % Rabatt.
 
 ![Diese Strassenlampe dürfte über 100 Jahre Dienst hinter sich
@@ -73,25 +73,25 @@ haben.](strassenlampe.jpg)
 
 1918 erweiterte die Weseta ihre Energieanlagen und lieferte vermehrt
 Lichtstrom auch an Privathaushalte und Gewerbe, unter einschränkenden
-Bedingungen ebenfalls Wärme- und Kraftstrom. Für die « Normalkerze»
-(ca. 3,2 W) wurde bei Metallfadenlampen pro Jahr 50 Rappen verlangt,
+Bedingungen ebenfalls Wärme- und Kraftstrom. Für die «Normalkerze»
+(ca. 3.2 W) wurde bei Metallfadenlampen pro Jahr 50 Rappen verlangt,
 bei Kohlefadenlampen das Doppelte. Die «Birne» zu 16 Kerzen war die
 Norm. Für ein 400-Watt-Bügeleisen waren 15 Franken pro Jahr zu
 entrichten. Grössere Verbraucher wurden über Zähler mit 50 Rappen per
-KWh abgerechnet.
+kWh abgerechnet.
 
 Im Laufe der Jahre geriet die Weseta-Kraftanlage erneut an ihre
 Kapazitätsgrenze. Da kam es Engi nicht ungelegen, dass im Frühjahr
 1926 die Gemeinde Schwanden aus ihrem Werk (EWS) den Sernftaler
 Gemeinden Strom offerierte. Schwanden bot an, die Versorgungsleitung
-ins Tal selber zu berappen, verlangte aber eine Abnahmegarantie von 25
-000 Franken pro Jahr. Da Matt bereit war, seinen ganzen Bezug neu zu
-regeln, waren die Bedingungen realistisch. An der Gemeindeversammlung
-vom 18. April opponierte der Weseta-Direktor dagegen und warb für eine
-eigenständige Sernftaler Lösung. Die Anwesenden beauftragten den
-Gemeinderat aber zu verhandeln. Nun ging das grosse Feilschen zwischen
-den Akteuren Engi, Weseta und Schwanden, später vereint mit der SN, so
-richtig schön los.
+ins Tal selber zu berappen, verlangte aber eine Abnahmegarantie von
+25’000 Franken pro Jahr. Da Matt bereit war, seinen ganzen Bezug neu
+zu regeln, waren die Bedingungen realistisch. An der
+Gemeindeversammlung vom 18. April opponierte der Weseta-Direktor
+dagegen und warb für eine eigenständige Sernftaler Lösung. Die
+Anwesenden beauftragten den Gemeinderat aber zu verhandeln. Nun ging
+das grosse Feilschen zwischen den Akteuren Engi, Weseta und Schwanden,
+später vereint mit der SN, so richtig schön los.
 
 ![Schreiben von Ende 1927 von Plattenbergpächter Marti in Matt, Engi
 habe in nächster Zeit unbedingt für genügend Strom für den
@@ -110,7 +110,7 @@ dadurch ein zäher Verhandlungspartner.
 
 Das Ergebnis war ganz kurz zusammengefasst: Engi überlässt der SN
 seine Wasserrechte und erhält dafür auf 80 Jahre hinaus jährlich einen
-Wasserzins von maximal 9000 Franken und 85 KW Vorzugsenergie zu 2 1/2
+Wasserzins von maximal 9000 Franken und 85 KW Vorzugsenergie zu 2½
 Rappen die Kilowattstunde, sowie auf 15 Jahre 250 KW Ergänzungsenergie
 zu 5 Rappen. Diese bevorzugten kW bezieht die Gemeinde über die
 Weseta, die weiterhin das Dorfnetz betreibt. Dafür bezahlt die Weseta
@@ -181,8 +181,8 @@ Mit der Umstellung der Sernftalbahn (SeTB) 1969 auf Busbetrieb wurden
 deren Kraftanlagen nutzlos. Damit stand die Frage im Raum, ob die EVE
 die freiwerdende Gefällsstufe selber nutzen solle. Das
 Ingenieursgutachten kam zum Schluss, dass die eigentlich moderaten
-Gestehungskosten (3,6 Rp./KWh) unwirtschaftlich seien im Vergleich mit
-dem Vorzugsenergiepreis der SN von 2,5 Rp./KWh.
+Gestehungskosten (3.6 Rp./kWh) unwirtschaftlich seien im Vergleich mit
+dem Vorzugsenergiepreis der SN von 2.5 Rp./kWh.
 
 ![Das 1960 erstellte Wohn- und Geschäftshaus der
 EV-Engi.](eve-haus.jpg)
@@ -309,7 +309,7 @@ Zustand befinde.](wagner-wyss.jpg)
 
 Mit dem Neubau des eigenen Betriebsgebäudes 1960 wechselte man den
 Namen auf Elektrizitäts-Versorgung. Nicht gewechselt hatten die
-vergangenen 30 Jahre die Tarife. Der KWh-Preis war für Licht immer
+vergangenen 30 Jahre die Tarife. Der kWh-Preis war für Licht immer
 noch 45 Rp., für Kraft 6 Rp. und für Wärme sommers 4, winters 8 Rp.
 Erst 1977 erfolgte eine provisorische lineare Tariferhöhung um 2
 Rp./kWh bei Wärme und Kraft – Licht blieb bei 45 Rp./kWh. Auch die
@@ -395,7 +395,7 @@ im Neujahrsboten 2006.
 Mitte 1993 bewilligte die Gemeindeversammlung einen Kredit von 75’000
 Franken für die Turbinierung der neu gefassten Üblitalquellen im
 Reservoir Brunnengaden. Um die Höhendifferenz von 230 Metern der
-anfallenden 6,5 Minutenliter in Strom umzuwandeln, wurde eine
+anfallenden 6.5 Minutenliter in Strom umzuwandeln, wurde eine
 12-kW-Turbal-Peltonturbine und ein 15-kW-Bartholdi-Asynchrongenerator
 installiert. Im Herbst 1994 ging die Anlage ans Netz. Sie sorgte wegen
 des Betriebsgeräusches in der Nachbarschaft für Unmut, den der
@@ -426,12 +426,12 @@ Einbau der Ossberger-Turbine für das neue Weseta-Mühlebachwerk,
 um ein Ausgleichs- und Geschiebeabsetzbecken mit 660 m3 Inhalt bei der
 Fassung im Atel und ein neues Turbinenhaus bei der Säge. Die
 Maschinengruppe bestand aus einer Francisspiralturbine von Bell mit
-einer Leistung von 150 PS bei einem Gefälle von 33 Metern und 0,5
+einer Leistung von 150 PS bei einem Gefälle von 33 Metern und 0.5
 m3/sec., sowie einem BBC-Asynchrongenerator von 130 kW. 1928 wurde die
 Maschinengruppe im Wyer ersetzt durch eine 40-PS-Turbine und einen
 30-kW-Generator mit 145 V und 150 A. In den 1950ern baute man im
 Hinterdorf eine neue vertikalachsige Kaplanturbine (230 kW) mit direkt
-gekoppeltem Generator (250kVA) ein.
+gekoppeltem Generator (250 kVA) ein.
 
 ![Links: Stauanlage des Weseta-Sernfwerkes, 2010. Rechts: Generator
 und Regler aus den Fünfzigerjahren des Weseta-Sernfwerkes,
@@ -443,11 +443,11 @@ und mit einer Ossberger-Turbine (150 kW) mit direkt gekuppeltem
 Bartholdi-Generator (170 kVA), sowie neuer Steuertechnik versehen.
 2009 kam das «grosse» Mühlebachwerk mit den Partnern
 Weseta-Kraftwerke, SN und Engi doch noch ans Netz. Bei einem Gefälle
-von 350 Metern und 1,1 m3/sec. leistet die fünfdüsige
-Andriz-Hydro-Peltonturbine 3,6 MW und der direkt gekoppelte
+von 350 Metern und 1.1 m3/sec. leistet die fünfdüsige
+Andriz-Hydro-Peltonturbine 3.6 MW und der direkt gekoppelte
 Leroy-Somer-Generator 3788 kVA. Und zur Abrundung noch die Eckdaten
 des 2013 ans Netz gegangenen neuen Werkes im Hinterdorf: Kompaktanlage
-(Kaplan vertikalachsig) von Andriz-Hydro, 8,2 m Gefälle, 7 m3/sec.
+(Kaplan vertikalachsig) von Andriz-Hydro, 8.2 m Gefälle, 7 m3/sec.
 Wasserdurchfluss, 522 kW Leistung.
 
 ![Neue Wasserfassung im Üblital und Einbau des Turbinenrades für das
