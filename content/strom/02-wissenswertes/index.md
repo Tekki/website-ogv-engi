@@ -42,15 +42,15 @@ reduzieren, wird in diesem Kapitel auf diese Gemeinsamkeiten
 eingegangen, die in den Werkkapiteln damit nur noch gestreift werden
 müssen.
 
-Die meisten frühen Anlagen wurden für Gleichstromproduktion und -
-verteilung gebaut. Als die Kraftstromnachfrage stark stieg und das
+Die meisten frühen Anlagen wurden für Gleichstromproduktion und
+-verteilung gebaut. Als die Kraftstromnachfrage stark stieg und das
 Löntschwerk ab 1908 Wechselstrom (auch Drehstrom genannt) abgab, kam
 es zu Parallelnetzen mit Gleichstrom für Licht und Wechselstrom für
 Gewerbe- und Industriemotoren. Erst nach dem Zweiten Weltkrieg wurden
 die letzten Gleichstromanlagen aufgegeben! Auch bei den
 Stromspannungen herrschte Vielfalt. So waren Lichtanlagen – unabhängig
-ob Gleichoder Wechselstrom – in einer Bandbreite von 100 bis 220 Volt
-gebaut worden. Die ersten regionalen
+ob Gleich- oder Wechselstrom – in einer Bandbreite von 100 bis 220
+Volt gebaut worden. Die ersten regionalen
 Wechselstrom-Übertragungsleitungen wurden mit 4,8 bis 5,6 Kilovolt
 betrieben, die Spannung aber bald auf 8 kV erhöht.
 
@@ -287,5 +287,5 @@ dank der KEV (Kostendeckende Einspeise-Vergütung) nun nicht mehr auf
 die Hilfestellungen der Glarner Solarstrombörse angewiesen sind.
 
 *Dieser Text ist ein Auszug aus «Strom fürs Glarnerland» von August
-Berlinger, erschienen 2022 (ISBN 978-3-033-09268-6) und erhältlich im
-Buchhandel.*
+Berlinger, erschienen 2022 und erhältlich im Buchhandel (ISBN
+978-3-033-09268-6).*
