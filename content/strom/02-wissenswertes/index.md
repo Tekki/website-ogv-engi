@@ -9,7 +9,7 @@ series: Strom für Chliital
 usePageBundles: true
 featureImage: ../banner.jpg
 thumbnail: ../thumbnail.jpg
-featured: true
+featured: false
 ---
 
 {{< lead >}}
@@ -285,6 +285,8 @@ nachgeordneten Netze sind grundsätzlich allen Produzenten zugänglich.
 Auch den privaten, einheimischen Photovoltaikanlagenbesitzern, die
 dank der KEV (Kostendeckende Einspeise-Vergütung) nun nicht mehr auf
 die Hilfestellungen der Glarner Solarstrombörse angewiesen sind.
+
+{{< continue-button "../03-ev-engi" "Elektrizitätsversorgung Engi" >}}
 
 *Dieser Text ist ein Auszug aus «Strom fürs Glarnerland» von August
 Berlinger, erschienen 2022 und erhältlich im Buchhandel (ISBN
