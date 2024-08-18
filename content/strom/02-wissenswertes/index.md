@@ -5,7 +5,7 @@ description: Ein Rückblick auf die vergangenen 130 Jahre
 author: August Berlinger
 tags:
   - Energieversorgung
-series: Strom für Chliital
+series: Strom fürs Chliital
 usePageBundles: true
 featureImage: ../banner.jpg
 thumbnail: ../thumbnail.jpg

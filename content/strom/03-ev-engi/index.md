@@ -6,7 +6,7 @@ author: August Berlinger
 tags:
   - Energieversorgung
   - Weberei
-series: Strom für Chliital
+series: Strom fürs Chliital
 usePageBundles: true
 featureImage: ../banner.jpg
 thumbnail: ../thumbnail.jpg
@@ -110,8 +110,8 @@ dadurch ein zäher Verhandlungspartner.
 
 Das Ergebnis war ganz kurz zusammengefasst: Engi überlässt der SN
 seine Wasserrechte und erhält dafür auf 80 Jahre hinaus jährlich einen
-Wasserzins von maximal 9000 Franken und 85 KW Vorzugsenergie zu 2½
-Rappen die Kilowattstunde, sowie auf 15 Jahre 250 KW Ergänzungsenergie
+Wasserzins von maximal 9000 Franken und 85 kW Vorzugsenergie zu 2½
+Rappen die Kilowattstunde, sowie auf 15 Jahre 250 kW Ergänzungsenergie
 zu 5 Rappen. Diese bevorzugten kW bezieht die Gemeinde über die
 Weseta, die weiterhin das Dorfnetz betreibt. Dafür bezahlt die Weseta
 eine jährliche Konzessionsgebühr von 4500 Franken im Minimum und
@@ -146,7 +146,7 @@ ebnen. Die Gemeindeversammlung vom 13. Mai erteilte dem Gemeinderat
 «Vollmacht, zur event. Kündigung des Vertrages, sofern die diesbezügl.
 Beratungen mit technischen Fachmännern deren Ratsamkeit ergeben». Der
 Vertrag wurde in der Folge auf Ende 1946 gekündigt. Die Weseta
-reagierte prompt und stellte vorsorglich Rechnung von 108 662 Franken.
+reagierte prompt und stellte vorsorglich Rechnung von 108’662 Franken.
 Der beigezogene Experte bezifferte den Betrag nach diversen Auf- und
 Abrechnungen und Kompromissen auf 86’070 Franken. Im Kontobuch der
 Gemeinde steht unter dem Datum 2. August 1947 die Summe von 98’003.35
@@ -401,7 +401,7 @@ installiert. Im Herbst 1994 ging die Anlage ans Netz. Sie sorgte wegen
 des Betriebsgeräusches in der Nachbarschaft für Unmut, den der
 Betriebsleiter mit einer simplen Isoliermatte aus der Welt schaffen
 konnte. Engi hatte endlich seinen selbstproduzierten Strom! 1997
-übernahm die EVE die Anlage von der Ortsgemeinde für 70 999 Franken.
+übernahm die EVE die Anlage von der Ortsgemeinde für 70’999 Franken.
 
 ## Kraftwerk Weseta
 
@@ -423,11 +423,11 @@ Einbau der Ossberger-Turbine für das neue Weseta-Mühlebachwerk,
 2001.](muehlebach.jpg)
 
 1918 erweiterte die Weseta ihre bestehenden Energieanlagen im Bergen
-um ein Ausgleichs- und Geschiebeabsetzbecken mit 660 m3 Inhalt bei der
+um ein Ausgleichs- und Geschiebeabsetzbecken mit 660 m³ Inhalt bei der
 Fassung im Atel und ein neues Turbinenhaus bei der Säge. Die
 Maschinengruppe bestand aus einer Francisspiralturbine von Bell mit
 einer Leistung von 150 PS bei einem Gefälle von 33 Metern und 0.5
-m3/sec., sowie einem BBC-Asynchrongenerator von 130 kW. 1928 wurde die
+m³/sec., sowie einem BBC-Asynchrongenerator von 130 kW. 1928 wurde die
 Maschinengruppe im Wyer ersetzt durch eine 40-PS-Turbine und einen
 30-kW-Generator mit 145 V und 150 A. In den 1950ern baute man im
 Hinterdorf eine neue vertikalachsige Kaplanturbine (230 kW) mit direkt
@@ -443,11 +443,11 @@ und mit einer Ossberger-Turbine (150 kW) mit direkt gekuppeltem
 Bartholdi-Generator (170 kVA), sowie neuer Steuertechnik versehen.
 2009 kam das «grosse» Mühlebachwerk mit den Partnern
 Weseta-Kraftwerke, SN und Engi doch noch ans Netz. Bei einem Gefälle
-von 350 Metern und 1.1 m3/sec. leistet die fünfdüsige
+von 350 Metern und 1.1 m³/sec. leistet die fünfdüsige
 Andriz-Hydro-Peltonturbine 3.6 MW und der direkt gekoppelte
 Leroy-Somer-Generator 3788 kVA. Und zur Abrundung noch die Eckdaten
 des 2013 ans Netz gegangenen neuen Werkes im Hinterdorf: Kompaktanlage
-(Kaplan vertikalachsig) von Andriz-Hydro, 8.2 m Gefälle, 7 m3/sec.
+(Kaplan vertikalachsig) von Andriz-Hydro, 8.2 m Gefälle, 7 m³/sec.
 Wasserdurchfluss, 522 kW Leistung.
 
 ![Neue Wasserfassung im Üblital und Einbau des Turbinenrades für das

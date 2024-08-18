@@ -5,7 +5,7 @@ description: Geschichte der Stromversorgung im Sernftal
 author: August Berlinger
 tags:
   - Energieversorgung
-series: Strom für Chliital
+series: Strom fürs Chliital
 usePageBundles: true
 featureImage: ../banner.jpg
 thumbnail: ../thumbnail.jpg
