@@ -13,9 +13,9 @@ channel:
   language: de-ch
   platforms:
     apple: von-70-zu-3/id1734658580
-    google: aHR0cHM6Ly9vZ3YtZW5naS5jaC9mZWVkL3BvZGNhc3QucnNz
     spotify: 65WGZYfMwizOja7r6S7O9n
     youtube: '@ogvengi9812'
+    ytmusic: PL5t_kkYtedKSny8njaV4Kwp2BXJIBwEth
   serial: true
   title: Von 70 zu 3
   website:
