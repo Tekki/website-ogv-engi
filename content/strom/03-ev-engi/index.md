@@ -598,6 +598,8 @@ WESETA Kraftwerke AG (ab 2009; Beteiligung).
 | 1990 – 2001 | Elfie Luchsinger            |
 | 2002 – 2010 | Gemeindeverwaltung          |
 
+{{< continue-button "../04-ev-matt" "Elektrizitätsversorgung Matt" >}}
+
 *Dieser Text ist ein Auszug aus «Strom fürs Glarnerland» von August
 Berlinger, erschienen 2022 und erhältlich im Buchhandel (ISBN
 978-3-033-09268-6).*
