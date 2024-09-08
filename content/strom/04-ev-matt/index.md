@@ -156,7 +156,7 @@ nicht mit den Weissenbergern gerechnet. Diese stellten nämlich bereits
 an die Frühlingsgemeindeversammlung 1934 das Begehren, auch sie seien
 mit der nun überall alltäglichen Energie zu versorgen. Die Bürger
 genehmigten diesen Antrag unter der Voraussetzung, dass Bund und
-Kanton diese Berg- Erschliessung zur Hälfte mitfinanzierten. Zwei
+Kanton diese Berg-Erschliessung zur Hälfte mitfinanzierten. Zwei
 Jahre später floss Strom in die Weissenberge. Wegen kriegsbedingt
 teurem und schlechtem Petrol wollten 1944 die Talbauern auch die
 abgelegenen Ställe im Bühl, Hänigen und Gruben ans Netz angeschlossen
@@ -328,7 +328,7 @@ Damit die Ferienhäuser mit ihrem niederen Verbrauch dennoch die
 Infrastrukturkosten mittrugen, erhob man ab 1972 einen
 Anschlussbeitrag von 60 Franken pro Ampère an der Hauptsicherung. Die
 Tariferhöhung von 1974 wurde durch die Tarifrevision des EWS
-ausgelöst. 1931 betrug der kW- Einkaufs-Preis 6½ Rappen und die
+ausgelöst. 1931 betrug der kW-Einkaufs-Preis 6½ Rappen und die
 jährliche Zuleitungspauschale 500 Franken. Im Versammlungsprotokoll
 von 1961 – also 30 Jahre später – ist von einem Teuerungsfaktor von
 1.46 (= 9½ Rp.) die Rede. Im Vertrag mit dem EWS wurde neu das
@@ -523,7 +523,7 @@ Eigenwerk: Krauchbachwerk (hälftiger Anteil ab 1980).
 | Stromabsatz (MWh)               |       |        |        |    1’841 |     2’500 |
 | Eigenproduktion (MWh)           |       |        |        |    2’124 |     3’725 |
 | Kabelnetz MS (m)                |       |        |        |          |    ~2’500 |
-| Freileitungsnetz MS (m)         |       |        |        |        ’ |      ~500 |
+| Freileitungsnetz MS (m)         |       |        |        |          |      ~500 |
 | Trafostationen Ebene 6 (Stk.)   |     1 |      1 |      2 |        6 |         6 |
 | Kabelnetz NS (m)                |       |        |        |          |   ~13’800 |
 | Freileitungsnetz NS (m)         |       |        |        |          |   ~1’7000 |
@@ -537,6 +537,8 @@ Eigenwerk: Krauchbachwerk (hälftiger Anteil ab 1980).
 | 1920 – 1982 | Lampenwart        | Fritz Schuler (Spinnermeister und Elektriker) |
 | 1980 – 2010 | Anlagenwart       | Heinrich und Dietrich Elmer (EMD/VBS)         |
 | 1920 – 2010 | Wartung Kraftwerk | Oswald Hefti (zusammen mit ARA Sernftal)      |
+
+{{< continue-button "../05-ew-elm" "Elektrizitätswerk Elm" >}}
 
 *Dieser Text ist ein Auszug aus «Strom fürs Glarnerland» von August
 Berlinger, erschienen 2022 und erhältlich im Buchhandel (ISBN
