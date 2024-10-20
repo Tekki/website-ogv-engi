@@ -24,7 +24,7 @@ eingegangen.
 Vorab etwas für Nicht-Insider. Um den Text «flüssiger» und kürzer zu
 machen, werden meistens die branchenüblichen Abkürzungen verwendet. Es
 wird von Trafo (Transformator) und Geno (Generator) die Rede sein, von
-TS (Trafostation), MS ( Messstation) und SS (Schaltstation) sowie von
+TS (Trafostation), MS (Messstation) und SS (Schaltstation) sowie von
 HT und NT (Hoch- und Niedertarif). Auch von EV
 (Elektrizitätsversorgung), EW (Elektrizitätswerk), KW (Kraftwerk) oder
 KLKW (Kleinkraftwerk).

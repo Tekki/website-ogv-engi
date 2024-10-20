@@ -72,6 +72,7 @@ Säge-Wasserrad geleitet. Als Stromart wurde Gleichstrom gewählt.
 Turbine und Regulator lieferte Escher-Wyss und die Dynamos samt
 Tableau wahrscheinlich Gebr. Gmür in Schänis. Für die Netzerstellung
 können Gmür und J. Bäbler & Sohn in Glarus angenommen werden.
+<a id="elm_01" href="../06-quellen#elm_01">¹</a>
 
 ![EW-Zentrale und Säge mit Maschinistenehepaar und Helfer, um
 1910.](zentrale-1910.jpg)
@@ -120,6 +121,7 @@ und Ampère-Meter ermittelt. Die abgegebene Leistung betrage bei 380
 Volt in den vier Sommermonaten durchschnittlich 20, in den restlichen
 14 Ampère. Bei den angegebenen 3500 – 4000 Jahresbetriebsstunden
 ergibt das ungefähr 21’000 – 24’000 kWh Jahresproduktion.
+<a id="elm_02" href="../06-quellen#elm_02">²</a>
 
 Die neue Stromart brachte Vorteile. So konnten 1911 die Weiler
 Steinibach und Sulzbach, sowie etwas später der Meissenboden, ans Netz
@@ -165,6 +167,7 @@ im Frühjahr 1928 die Frage, welche Schritte der Gemeinderat tun wolle
 um die Kalamität mit der Licht- und Kraftbelieferung im Winter zu
 verbessern. Der Rat hielt sich bedeckt und meinte nur, die Sache sei
 noch nicht reif.
+<a id="elm_03" href="../06-quellen#elm_03">³</a>
 
 An der GV vom 30. September 1928 informierte der Gemeinderat, dass er
 eine Wasserzuleitung von der Kühbodenruns zum Reservoir Güetli prüfen
@@ -218,6 +221,7 @@ erhielt eine der beiden «Säge»-Turbinen 1941 eine neue
 Doppelregulierung. 1945 machte man wieder einmal Wassersondierungen,
 aber selbst ein Fund hätte nicht viel genützt, weil kriegsbedingt
 keine Eisenröhren erhältlich waren.
+<a id="elm_04" href="../06-quellen#elm_04">⁴</a>
 
 ![Auch wenn in diesen Tagen nur sechs Stunden pro Tag Strom geliefert
 wurde, konnte dennoch (oder erst recht) Werbung für Elmer Citro
@@ -274,6 +278,7 @@ angeschlossen. Damit verfügte das EW über das ganze Empächli-Wasser.
 Mit der Aufgabe der Tafelfasserei von Johann Ulrich Hauser 1958 wurde
 deren Wasserrecht mit 60 Minutenlitern in der Hinterweid (Güetli) frei
 und das EWE griff für 1’200 Franken zu.
+<a id="elm_05" href="../06-quellen#elm_05">⁵</a>
 
 ![Fassungen von Schwiirus (links) und Chüeboderus mit «Wasserfall»
 der Überleitung von der Schwiirus, 1999.](schwiirus.jpg)
@@ -306,6 +311,7 @@ und weiter in den folgenden Jahren wurde das Primär- wie das
 Sekundärkabelnetz für gut 300’000 Franken stark ausgebaut. Da Elm ein
 geschütztes Dorfbild hat, wurden die Verkabelungen in diesem Bereich
 von der kantonalen und eidgenössischen Denkmalpflege subventioniert.
+<a id="elm_06" href="../06-quellen#elm_06">⁶</a>
 
 ![Trafostation in der Talstation der Sportbahnen,
 2015.](trafostation.jpg)
@@ -337,6 +343,7 @@ Freileitungen. Erleichtert wurde dies durch die bereits früher in
 Strassen und Werkleitungsgräben verlegten Leerrohre. Die Kosten waren
 dennoch beachtlich; gegen anderthalb Millionen Franken waren dafür
 nötig.
+<a id="elm_07" href="../06-quellen#elm_07">⁷</a>
 
 1984 richtete man am Bischofbach eine automatische Messtation ein um
 Unterlagen für eine allfällige Winterwassernutzung zu erhalten. Der
@@ -399,6 +406,7 @@ Widerstand im Kanton. Im Schlussspurt vor dem Übergang des EWE in die
 TBGS ersetzte man den Generator im Güetli, richtete eine
 Netzüberwachungsanlage ein und beschaffte noch eine Notstromanlage für
 die Zentrale bei der Säge.
+<a id="elm_08" href="../06-quellen#elm_08">⁸</a>
 
 ## Betrieb und Finanzen
 
@@ -484,6 +492,7 @@ winters mit 10 Rp/kWh berechnet. Die gleichen Ansätze galten bei
 Heizkörpern über 750 Watt. Beim Motorenstrom war eine Minimalgarantie
 von 20 Franken pro PS/Jahr zu zahlen und für die kWh degressiv über
 vier Stufen 15 bis 10 Rappen:
+<a id="elm_09" href="../06-quellen#elm_09">⁹</a>
 
 ![Betriebszeiten für Motoren im Regulativ von 1934](motorenstrom.jpg)
 
@@ -573,6 +582,7 @@ von 6 Franken, womit die Ferienhausbesitzer gerechter an die
 Netzkosten beizutragen hatten. Die Konditionen mit den Grossbezügern –
 Militär, Elmag, Sportbahnen und regionales Altersheim – konnte der
 Gemeinderat in eigener Kompetenz aushandeln.
+<a id="elm_10" href="../06-quellen#elm_10">¹⁰</a>
 
 ![«Elm by Night.»](elm-by-night.jpg)
 
@@ -658,6 +668,7 @@ Gemeindefusion, erledigte der Betriebsleiter des EW Linthal in einem
 20-%-Pensum die nötigsten Aufgaben. Parallel dazu übernahm das EWS die
 Rechnungsstellung an die Abonnenten bis zum Übergang an die TBGS Ende
 2010.
+<a id="elm_11" href="../06-quellen#elm_11">¹¹</a>
 
 ## Kraftwerke
 
@@ -767,6 +778,7 @@ der kW-Preis mit 10.2 Rappen angenommen worden. Dank KEV wäre die
 Sache rentabel gewesen. Widerstand gegen eine Rodung im Äschen und
 durch den Kanton verordnete Ausgabenbeschränkungen in der
 Übergangszeit bis zur Gemeindefusion verhinderten die Realisierung.
+<a id="elm_12" href="../06-quellen#elm_12">¹²</a>
 
 ## Statistik: Elektrizitätswerk Elm
 

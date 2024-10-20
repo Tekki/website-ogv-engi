@@ -39,6 +39,7 @@ solle der Zugang zum Schulhaus von der Strasse her, «durch geeignete
 Plazierung von Lampen, der bisherigen Finsternis entrissen werden».
 Die Energie wurde in 130 V Gleichstrom vom Schulpräsidenten und
 Weseta-Inhaber Blumer gratis geliefert.
+<a id="engi_01" href="../06-quellen#engi_01">¹</a>
 
 ![In diesem Revers von 1898 verpflichtet sich die Weseta, für
 allfällige von ihrer Stromleitung verursachte Schäden
@@ -67,6 +68,7 @@ Energie war. 1921 kündigte die Weseta den bestehenden Liefervertrag
 für die Strassenbeleuchtung. Neu musste die Gemeinde für die 25
 Strassenlampen à 32 Kerzen den normalen kWh-Preis von 54 Rappen
 bezahlen, immerhin mit 20 % Rabatt.
+<a id="engi_02" href="../06-quellen#engi_02">²</a>
 
 ![Diese Strassenlampe dürfte über 100 Jahre Dienst hinter sich
 haben.](strassenlampe.jpg)
@@ -121,6 +123,7 @@ Talversorgungsleitung und dem Dorfnetz samt den Gebäuden lässt die
 Gemeinde in ihren Kosten erstellen, diejenigen für die Fabriken die
 Weseta. Nach 15 Jahren hat die Gemeinde das Recht, das Dorfnetz zum
 dannzumaligen Wert zurückzukaufen.
+<a id="engi_03" href="../06-quellen#engi_03">³</a>
 
 ![Bericht des Gemeinderates an die Versammlung vom 30. Juni 1930 über
 die Wasserrechtsverkäufe am Sernf und die
@@ -151,6 +154,7 @@ Der beigezogene Experte bezifferte den Betrag nach diversen Auf- und
 Abrechnungen und Kompromissen auf 86’070 Franken. Im Kontobuch der
 Gemeinde steht unter dem Datum 2. August 1947 die Summe von 98’003.35
 Franken. Der Strombezug von der SN erfolgte weiterhin über die Weseta.
+<a id="engi_04" href="../06-quellen#engi_04">⁴</a>
 
 ![Kontobuch mit den Eintragungen woher man die Kaufsumme für das
 Dorfnetz beschafft hat.](kontobuch.jpg)
@@ -214,6 +218,7 @@ Trinkwasser-Maschinengruppe an, die sie sich 1997 von der EVE für
 Weseta am Sägeplatz konnte im Jahr 2000 für rund 145’000 Franken eine
 eigene 400-kW-Anlage eingerichtet werden, womit netztechnisch EVE und
 Weseta ganz unabhängig voneinander wurden.
+<a id="engi_05" href="../06-quellen#engi_05">⁵</a>
 
 ![Schema der Messeinrichtungen, die eine geregelte Abrechnungen
 zwischen den Partnern EV Engi, Weseta und EW Schwanden
@@ -389,6 +394,7 @@ Hilfskräften weiter.
 Eine interessante Innensicht der EVE-Geschichte mit weiteren Details
 vermittelt der Beitrag der ehemaligen EVE-Verwalterin Elfie Luchsinger
 im Neujahrsboten 2006.
+<a id="engi_06" href="../06-quellen#engi_06">⁶</a>
 
 ## Trinkwasserkraftwerk Brunnengaden
 
@@ -402,6 +408,7 @@ des Betriebsgeräusches in der Nachbarschaft für Unmut, den der
 Betriebsleiter mit einer simplen Isoliermatte aus der Welt schaffen
 konnte. Engi hatte endlich seinen selbstproduzierten Strom! 1997
 übernahm die EVE die Anlage von der Ortsgemeinde für 70’999 Franken.
+<a id="engi_07" href="../06-quellen#engi_07">⁷</a>
 
 ## Kraftwerk Weseta
 
@@ -449,6 +456,7 @@ Leroy-Somer-Generator 3788 kVA. Und zur Abrundung noch die Eckdaten
 des 2013 ans Netz gegangenen neuen Werkes im Hinterdorf: Kompaktanlage
 (Kaplan vertikalachsig) von Andriz-Hydro, 8.2 m Gefälle, 7 m³/sec.
 Wasserdurchfluss, 522 kW Leistung.
+<a id="engi_08" href="../06-quellen#engi_08">⁸</a>
 
 ![Neue Wasserfassung im Üblital und Einbau des Turbinenrades für das
 Kraftwerk Mühlebach I, 2009.](ueblital.jpg)
@@ -499,6 +507,7 @@ vergrösserten und auf Mettmen zwei Jahresspeicherseen vorsahen (Brutto
 58’000 PS). Doch auch diese Projekte blieben bloss Papier. Im
 Zusammenhang mit dem Lieferangebot 1926 von Schwanden, kam es nochmals
 zu Studien, die auch kein befriedigendes Resultat ergaben.
+<a id="engi_09" href="../06-quellen#engi_09">⁹</a>
 
 ![Die selbe Idee erweitert um den Niederenbach von der NOK im
 folgenden Jahr.](muehlebach-plan-3.jpg)
@@ -542,6 +551,7 @@ war in Geld einzubringen. Die Gemeindeversammlung beschloss fast
 einstimmig, sich am Werk zu beteiligen und den Anteil von 10 auf 15 %
 zu erhöhen. Im März 2009 ging das Werk ans Netz und Engi war kurz vor
 der Gemeindefusion noch zweiter Kraftwerkeigentümer geworden.
+<a id="engi_10" href="../06-quellen#engi_10">¹⁰</a>
 
 ![Fünfdüsige Peltonturbine mit aufgesetztem Generator des Kraftwerks
 Mühlebach I mit den Partnern Engi (abgelöst durch Glarus Süd), Weseta

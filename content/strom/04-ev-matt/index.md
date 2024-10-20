@@ -40,6 +40,7 @@ wichtig, es solle bestimmt werden, «dass die Conzession wieder dem
 Tagwen zufalle, wenn das Geschäft abbrennen sollte.» Die
 Gemeindeversammlung vom 14. April erteilte in diesem Sinne das
 Verhandlungsmandat.
+<a id="matt_01" href="../06-quellen#matt_01">¹</a>
 
 Das Vertragsdokument vom 15. April 1902 enthält weder Bestimmungen zu
 einem Konzessionsrückfall noch über Abtretung von Strom für die
@@ -51,6 +52,7 @@ pendent und er beantragte der Gemeindeversammlung vom 13 März 1904
 «Aufnahme von Plänen um Erstellung eines Wasserwerkes am Berglibach».
 Das Projekt wurde verschoben, um nicht allfälligen (Strom)Interessen
 der im Aufbau befindlichen Sernftalbahn in die Quere zu kommen.
+<a id="matt_02" href="../06-quellen#matt_02">²</a>
 
 ![In keinem Dokument erwähnter Plan aus dem Jahr 1904 oder
 1905.](plan-1905.jpg)
@@ -84,6 +86,7 @@ für das Sernftal. Dafür sei man bereit, sich am Werk finanziell zu
 beteiligen. Engi verzichtete im folgenden Jahr wegen hoher Kosten und
 mangelnden Absatzaussichten bei Nachbargemeinden und Sernftalbahn auf
 den Bau.
+<a id="matt_03" href="../06-quellen#matt_03">³</a>
 
 ![Ausschnitt aus dem GV-protokoll vom 17.3.1908 mit dem Antrag auf
 Gewinnung von elektrischer Kraft.](gv-protokoll-1908.jpg)
@@ -115,6 +118,7 @@ Turbine installieren lassen und bot nun der Gemeinde die doppelte
 Energieleistung an. Bereits die Herbstversammlung trat auf das Angebot
 ein und bewilligte 12’500 Franken für eine Netzerweiterung, womit
 «fast jedes Haus angeschlossen werden kann».
+<a id="matt_04" href="../06-quellen#matt_04">⁴</a>
 
 ![Kurzaufstellung des Matter Stromkonsums bei Spälty, 1923: 12000
 «Kerzen» (42 kW), 70 Glätteisen (1.4 kW), 3 Motoren mit zusammen 10 PS
@@ -146,6 +150,7 @@ Schwanden. Bereits Ende Jahr war die Leitung von Engi nach Matt
 erstellt und das «Probezeit»-Reglement verabschiedet. Weiter wurde
 mitgeteilt, dass die Änderungskosten bis ans Tableau vom EWM
 übernommen würden.
+<a id="matt_05" href="../06-quellen#matt_05">⁵</a>
 
 ![Abspannmast der Weissenbergleitung neben der Turnhalle; ob dem
 Tragbalken der Zwischenmast auf dem Felskopf,
@@ -188,6 +193,7 @@ noch im Gang, 1964 und 1965 machte die SN Sondierbohrungen im
 Krauchtal. 1966 fiel dann der Entscheid, ein neues Krauchbachwerk
 werde in absehbarer Zeit nicht realisiert, da der Fokus der Schweizer
 Stromwirtschaft neu auf thermischen Kraftwerken (Öl und Atom) liege.
+<a id="matt_06" href="../06-quellen#matt_06">⁶</a>
 
 Nach der Schliessung der Spinnerei Spälty 1967 kam deren
 Krauchbachwerk wieder ins Gespräch. Der Gemeinderat bestellte ein
@@ -226,6 +232,7 @@ weiter zu entwickeln. Der Bund war bereit, dies im Rahmen seiner
 jeweiligen Anteile finanziell mitzutragen. Alles, was über eine reine
 Sanierung des Bestehenden hinausging, hatte jedoch das EWM zu
 berappen, konnte aber auch über den Mehrertrag verfügen.
+<a id="matt_07" href="../06-quellen#matt_07">⁷</a>
 
 Parallel zu den Kraftwerksgeschäften waren auch die Verteilanlagen
 weiter auszubauen. 1972 war eine Erneuerung der TS Turnhalle sowie die
@@ -253,6 +260,7 @@ Krauch, Sand, Geissberg und Stalden fertiggestellt werden. Bis zum
 allem vom ESTI verlangte Sicherheitsarbeiten an den Trafostationen
 auszuführen. Dazu kamen 2006 ganz neue Anlagen in der TS Turnhalle und
 2008 ein neuer Trafo mit Schaltanlage in der TS Talstation.
+<a id="matt_08" href="../06-quellen#matt_08">⁸</a>
 
 ## Betrieb und Finanzen
 
@@ -335,6 +343,7 @@ von 1961 – also 30 Jahre später – ist von einem Teuerungsfaktor von
 System von Leistungspreis per kW des Jahresmaximums sowie Arbeitspreis
 pro bezogene Kilowattstunde eingeführt, was ungefähr 12 Rp./kWh. alte
 Berechnung ergab.
+<a id="matt_09" href="../06-quellen#matt_09">⁹</a>
 
 Mitte der 1970er-Jahre begann die Zeit der grossen Kreditbegehren für
 die Infrastruktur; allein von 1976 – 1978 betrugen die bewilligten
@@ -360,6 +369,7 @@ nicht allein entscheiden.» 1986 ging die EW-Verwaltung vom Tagwenvogt
 an die Gemeindeverwaltung über und 1989 wurde die EDV eingeführt. Im
 Frühjahr 1993 führte «einmal mehr» eine fehlerhafte Kupplerschaltung
 zu Überspannung, welcher diverse Waschmaschinen zum Opfer fielen.
+<a id="matt_10" href="../06-quellen#matt_10">¹⁰</a>
 
 Ende 1991 musste auf die Gründung der Genossenschaft für
 Sonnenenergieanlagen Sernftal (GSS) im EW-Reglement mit
@@ -436,6 +446,7 @@ die Versicherung mitzahlte. Hingegen mussten zwei Jahre später der
 Turbinenrad-Ersatz und eine Schieberreparatur ganz auf eigene Rechnung
 genommen werden. Mit der Gemeindefusion ging 2011 auch das EW-Matt
 samt Kraftwerkanteil in den TBGS auf.
+<a id="matt_12" href="../06-quellen#matt_12">¹²</a>
 
 ## Kraftwerk
 
@@ -482,6 +493,7 @@ Schluckvermögen und 267 kW Leistung sowie direkt gekuppeltem
 Bartholdi-Synchrongenerator. Und schliesslich die Totalerneuerung der
 Schalt-, Mess- und Steuerungsanlagen. Das Werk kann im Inselbetrieb
 gefahren werden.
+<a id="matt_13" href="../06-quellen#matt_13">¹³</a>
 
 ![Links: Francis-Spiralturbine von 1948 nach Revision, 2000. Rechts:
 Neue Francis-Spiralturbine von 1999.](kraftwerk3.jpg)
@@ -502,6 +514,7 @@ in der Brunnenstube Stutz. Die Gemeindeversammlung vom 16. Juni 2010
 stimmte einem Kredit von 50’000 Franken zu. Die bauseitigen Arbeiten
 wurden von der neuen Gemeinde Glarus Süd ausgeführt, mit den
 elektrotechnischen Anlagen wird noch zugewartet (Stand 2018).
+<a id="matt_14" href="../06-quellen#matt_14">¹⁴</a>
 
 ## Statistik: Elektrizitätsversorgung Matt
 
