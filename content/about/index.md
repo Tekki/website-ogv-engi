@@ -54,7 +54,6 @@ Allmeindstrasse 33
 - Didi Bäbler
 - Julia Dällenbach (Kassierin)
 - Leni Takihara
-- Sara Zimmermann (Aktuarin)
 
 ![](cddb13.jpg)
 
@@ -75,17 +74,17 @@ besucht. Der Ortsgeschichtsverein hat zurzeit ungefähr 230 Mitglieder.
 
 #### Artikel 1
 
-Unter dem Namen «Verein zur Erforschung und Dokumentation der Ortsgeschichte
-von Engi» (im folgenden Ortsgeschichtsverein) wurde am 30. Juni 1993 eine
-Organisation gegründet, die im Sinne von Art. 60 ff. ZGB einen Verein bildet
-mit Sitz in Engi.
+Der Ortsgeschichtsverein Engi bildet einen Verein im Sinne von Art. 60
+ff. ZGB mit Sitz in Engi, Glarus Süd. Er wurde am 30.06.1993 unter dem
+Namen «Verein zur Erforschung und Dokumentation der Ortsgeschichte von
+Engi» gegründet.
 
 #### Artikel 2
 
-Der Zweck des Vereins ist die Erforschung und Dokumentation der Ortsgeschichte
-von Engi und die Bereitstellung der dafür benötigten Mittel. Ausserdem kann der
-Verein jede Tätigkeit ausüben oder unterstützen, die der Erreichung dieses
-Zwecks dient.
+Der Zweck des Vereins ist die Erforschung und Dokumentation der
+Ortsgeschichte von Engi und Umgebung und die Bereitstellung der dafür
+benötigten Mittel. Ausserdem kann der Verein jede Tätigkeit ausüben
+oder unterstützen, die der Erreichung dieses Zwecks dient.
 
 #### Artikel 3
 
@@ -115,7 +114,8 @@ statutarischen Geschäfte:
 
 1. Jahresbericht
 2. Jahresrechnung
-3. Wahl des Vorstands und der Rechnungsrevisoren (im 4-Jahreszyklus)
+3. Wahl des Präsidiums, des übrigen Vorstands und der
+   Rechnungsrevisoren (im 4-Jahreszyklus)
 4. Festsetzung des Jahresbeitrags
 5. Verschiedenes
 
@@ -124,6 +124,8 @@ Zweidrittels-Mehrheit aller an der Hauptversammlung anwesenden Mitglieder.
 
 Ausserordentliche Hauptversammlungen können jederzeit einberufen werden, wenn
 es der Vorstand oder ein Fünftel der Vereinsmitglieder verlangen.
+
+#### Artikel 6
 
 Die Ausgabenkompetenz des Vorstands für Projekte und Anschaffungen darf pro
 Rechnungsjahr den Gesamtbetrag von 10'000 Franken nicht übersteigen.
@@ -135,15 +137,15 @@ von Frau Hedwig Meyer-Streiff sel. Es muss für die Ziele des
 Ortsgeschichtsvereins eingesetzt werden. Einnahmen- oder Ausgabenüberschüsse
 werden dem Vermögen gutgeschrieben bzw. belastet. Im Falle einer Auflösung des
 Vereins fällt das gesamte Vermögen gemäss Beschluss des Vorstands an kulturelle
-Institutionen der Gemeinde Engi.
+Institutionen in Glarus Süd.
 
 #### Artikel 8
 
 Die rechtsverbindliche Unterschrift ist dem Präsidenten / der Präsidentin des
 Vereins zusammen mit einem Mitglied des Vorstands vorbehalten.
 
-Diese Statuten ersetzen die Statuten vom 16. Dezember 1993 und diejenigen vom
-20. März 2004.  Sie wurden an der heutigen ordentlichen Hauptversammlung
+Diese Statuten ersetzen die Statuten vom 16.12.1993, 20.03.2004 und
+17.03.2007. Sie wurden an der heutigen ordentlichen Hauptversammlung
 genehmigt und treten sofort in Kraft.
 
-Engi, 17. März 2007
+Engi, 29.03.2025
