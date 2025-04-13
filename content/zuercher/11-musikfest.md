@@ -7,6 +7,7 @@ categories:
   - Videos
 tags:
   - Alltagsleben
+  - Musik
 series: Filme 1958-1972
 thumbnail: /videos/zuercher/11-thumbnail.jpg
 ---

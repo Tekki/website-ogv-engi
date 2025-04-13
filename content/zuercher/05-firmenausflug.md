@@ -6,7 +6,7 @@ author: Fritz Zürcher
 categories:
   - Videos
 tags:
-  - Weberei
+  - Textilindustrie
 series: Filme 1958-1972
 thumbnail: /videos/zuercher/05-thumbnail.jpg
 ---

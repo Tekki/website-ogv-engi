@@ -1,26 +1,24 @@
 ---
-title: Altjaaraabed und Nüüjahr
-date: 2023-12-31
+title: Wases für Sorte Lüt ge hät
+date: 2025-04-12
 description: Alltagsgeschichten aus der Zeit des Übergangs vom 19. ins 20. Jahrhundert
 author: Adelheid Baumartner
 categories:
   - Videos
 tags:
-  - Alltagsleben
+  - Dialekt
 series: Ä so isch es gsi
 thumbnail: /publikationen/ae_so/thumbnail.jpg
 ---
 
 {{< lead >}}
 
-{{< local-video "ae_so/3-8" "de" >}}
+{{< local-video "ae_so/1-1b" >}}
 
-{{< big "Äso isch es gsi (So ist es gewesen)" >}}
+{{< big "Äso isch es gsi (So ist es gewesen, How things used to be in the Glarnerland)" >}}
 
 Heitere, ernste und groteske Geschichten aus dem Sernftal, Kanton
 Glarus, aus dem Ende des 19. und Anfang des 20. Jahrhunderts. Erzählt
 in Schweizerdeutsch von Adelheid Baumgartner.
-
-Deutsche Untertitel: Rolf Stöckli.
 
 Playlist auf [YouTube](https://www.youtube.com/watch?v=Gv3gvmMY-Gc&list=PL5t_kkYtedKSfJzmelLbRK-zIYjDBGD7r&ab_channel=OGVEngi).

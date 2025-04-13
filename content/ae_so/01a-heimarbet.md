@@ -6,7 +6,7 @@ author: Adelheid Baumartner
 categories:
   - Videos
 tags:
-  - Weberei
+  - Textilindustrie
 series: Ä so isch es gsi
 thumbnail: /publikationen/ae_so/thumbnail.jpg
 ---
@@ -22,3 +22,5 @@ Glarus, aus dem Ende des 19. und Anfang des 20. Jahrhunderts. Erzählt
 in Schweizerdeutsch von Adelheid Baumgartner.
 
 Deutsche Untertitel: Rolf Stöckli. English subtitles: Sally Leuzinger.
+
+Playlist auf [YouTube](https://www.youtube.com/watch?v=Gv3gvmMY-Gc&list=PL5t_kkYtedKSfJzmelLbRK-zIYjDBGD7r&ab_channel=OGVEngi).

@@ -5,7 +5,7 @@ description: Im Spannungsfeld fremder Interessen
 author: August Berlinger
 tags:
   - Energieversorgung
-  - Weberei
+  - Textilindustrie
 series: Strom fürs Chliital
 usePageBundles: true
 featureImage: ../banner.jpg
