@@ -27,6 +27,7 @@ gegliedert:
 * In der Werkstatt, im Depot und an der Strecke
 * Abschied und Rückblick
 
-{{< unavailable-block >}}
-Leider ist das Buch «Erinnerungen an die Sernftalbahn» vergriffen.
+{{< unavailable-block >}} Leider ist das Buch «Erinnerungen an die
+Sernftalbahn» vergriffen. Lesen Sie es stattdessen
+[hier](../../setb-erinnerungen/01-einleitung) auf unserer Homepage.
 {{< /unavailable-block >}}
