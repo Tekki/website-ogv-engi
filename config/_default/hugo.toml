@@ -2,7 +2,6 @@ baseurl = "https://ogv-engi.ch/"  # Include trailing slash
 title = "OGV Engi"
 copyright = "OGV Engi"
 # canonifyurls = true
-paginate = 10
 theme = ["github.com/chipzoller/hugo-clarity"]
 # theme = "hugo-clarity"
 disqusShortname = ""
@@ -16,3 +15,6 @@ series = "series"
 
 [outputs]
 home = ["HTML", "RSS"]
+
+[pagination]
+pagerSize = 10
