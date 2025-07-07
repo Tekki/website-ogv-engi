@@ -15,7 +15,7 @@ featured: false
 {{< lead >}}
 
 *Es erzählt Kaspar Zentner-Furrer, \*1925, Einsiedeln. Das Interview
-wurde am 11. November 2004 geführt.*
+wurde am 20. Oktober 2004 geführt.*
 
 Ich wuchs in Elm auf und arbeitete seit meinem Schulaustritt bei der
 Sernftalbahn. Zuerst half ich im Winter beim Schneeschöpfen. Bald

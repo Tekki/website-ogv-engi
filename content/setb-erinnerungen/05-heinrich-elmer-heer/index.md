@@ -70,3 +70,5 @@ het dr Wagäfüerer und hindä dr Kunditör gfuschtet wie letz. Augä heid
 bed gmacht we Guttäräbödä. Z'Bähndli isch aber gliich langsam witer
 gfarä, wes chu isch. Mir heid ä umäri Freud ka a dem Chilbistreichli.
 Hüt chäm ja wahrschindli Polizii.
+
+{{< continue-button "../06-fritz-voegeli-marti" "Fritz Vögeli-Marti" >}}
