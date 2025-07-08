@@ -138,3 +138,5 @@ Es blieb uns aber noch anderes. Hie und da legten wir einen roten
 Räppler auf die Schiene, um zu erproben, wie er nach der
 Zugsdurchfahrt aussehe. Wir freuten uns an der neuen, zerquetschten
 Form, die er angenommen hatte.
+
+{{< continue-button "../07-hildi-blumer-loetscher" "Hildi Blumer-Lötscher" >}}
