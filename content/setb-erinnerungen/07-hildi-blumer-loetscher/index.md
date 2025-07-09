@@ -187,3 +187,5 @@ sollte. Am 24. Mai 1969, am Tag, als die Bahn zum letzten Mal fuhr,
 konnte ich nicht dabei sein. Just an diesem Tag brachte ich nämlich im
 Kantonsspital Glarus meine jüngste Tochter, Sibylle, zur Welt.
 Vergessen habe ich die Sernftalbahn nie.
+
+{{< continue-button "../08-fritz-rhyner-baumgartner" "Fritz Rhyner-Baumgartner" >}}
