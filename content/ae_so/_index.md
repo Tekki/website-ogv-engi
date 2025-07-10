@@ -1,3 +1,3 @@
 ---
-title: Ä so isch es gsi
+title: Äso isch es gsi
 ---

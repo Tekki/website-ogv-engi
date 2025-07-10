@@ -7,13 +7,13 @@ categories:
   - Videos
 tags:
   - Alltagsleben
-series: Ä so isch es gsi
+series: Äso isch es gsi
 thumbnail: /publikationen/ae_so/thumbnail.jpg
 ---
 
 {{< lead >}}
 
-{{< local-video "ae_so/1-4" "de" "en" >}}
+{{< local-video "ae_so/1-4" >}}
 
 {{< big "Äso isch es gsi (So ist es gewesen, How things used to be in the Glarnerland)" >}}
 

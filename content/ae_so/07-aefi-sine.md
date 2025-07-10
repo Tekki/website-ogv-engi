@@ -7,7 +7,7 @@ categories:
   - Videos
 tags:
   - Musik
-series: Ä so isch es gsi
+series: Äso isch es gsi
 thumbnail: /publikationen/ae_so/thumbnail.jpg
 ---
 
@@ -15,7 +15,7 @@ Musikalisches Zwischenspiel zu den
 
 {{< lead >}}
 
-{{< local-video "ae_so/1-7" "de" "en" >}}
+{{< local-video "ae_so/1-7" >}}
 
 {{< big "Äso isch es gsi (So ist es gewesen, How things used to be in the Glarnerland)" >}}
 

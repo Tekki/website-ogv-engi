@@ -316,3 +316,5 @@ sie eine Attraktion. Die Bahn war menschlicher.
 [^1]: Lechnen = in Pacht nehmen, zum Gebrauch mieten.
 
 [^2]: Kurve nach dem Soolsträssli Richtung Warth, beim Bächlein.
+
+{{< continue-button "../09-oswald-rhyner-rhyner" "Oswald Rhyner-Rhyner" >}}

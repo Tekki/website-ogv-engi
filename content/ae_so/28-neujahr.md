@@ -7,7 +7,7 @@ categories:
   - Videos
 tags:
   - Alltagsleben
-series: Ä so isch es gsi
+series: Äso isch es gsi
 thumbnail: /publikationen/ae_so/thumbnail.jpg
 ---
 

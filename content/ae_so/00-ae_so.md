@@ -1,5 +1,5 @@
 ---
-title: Ä so isch es gsi
+title: Äso isch es gsi
 date: 2019-03-07
 description: Alltagsgeschichten aus der Zeit des Übergangs vom 19. ins 20. Jahrhundert
 author: Adelheid Baumartner
@@ -8,7 +8,7 @@ categories:
 tags:
   - Alltagsleben
   - Musik
-series: Ä so isch es gsi
+series: Äso isch es gsi
 thumbnail: /publikationen/ae_so/thumbnail.jpg
 ---
 
@@ -32,15 +32,16 @@ Schweizer Fernsehen SF DRS.
 Noch während ihrer Amtszeit kaufte sie sich 1973 einen Hausteil in
 Sool, den sie bis zum Umzug ins Altersheim im Jahr ___ bewohnte. Ihre
 damaligen Nachbarn, Vrini (Verena) und Thümi (Thomas) Juon, sprachen
-einen ausgeprägt farbigen Glarnerdialekt. Erst bei Gesprächen, vor
-allem mit Vrini, merkte Adelheid Baumgartner, wieviel von ihrer
-Muttersprache sie selber bereits verloren hatte, und sie begann,
-einzelne Wörter und Aussprüche zu notieren.
+einen ausgeprägt farbigen Glarnerdialekt. Erst bei den Gesprächen mit
+ihnen stellte Adelheid Baumgartner fest, wieviel von ihrer
+Muttersprache sie selber bereits verloren hatte. Sie begann, einzelne
+Wörter und Aussprüche zu notieren.
 
-Angeregt durch unzählige Kontakte und Gespräche, schrieb sie
-Begebenheiten und Lebensgewohnheiten aus ihrer frühesten Jugend sowie
-aus der Zeit ihrer Eltern und Grosseltern auf. Sie befragte gezielt
-verschiedene Leute, um möglichst authentische Berichte zu erhalten.
+Angeregt durch unzählige weitere Kontakte und Gespräche, schrieb sie
+in der Folge Begebenheiten und Lebensgewohnheiten aus ihrer frühesten
+Jugend sowie aus der Zeit ihrer Eltern und Grosseltern auf. Sie
+befragte gezielt verschiedene Leute, um möglichst authentische
+Berichte zu erhalten.
 
 # Die Musiker
 
@@ -73,8 +74,8 @@ Melodieteil vor, bis nach und nach mehrere Stücke beherrscht wurden.
 
 In späteren Jahren, als Rosina Baumgartner schon gegen siebzig ging,
 spielte sie fast wöchentlich zusammen mit Euphemia Blumer und Anna
-Rhyner. Eine grosse Zahl ihrer vielen Zitherstücke nahm sie zu jener
-Zeit auf Tonband auf.
+Rhyner. Eine grosse Zahl ihrer Zitherstücke nahm sie zu jener Zeit auf
+Tonband auf.
 
 ## Heinrich Hämmerli
 
@@ -113,21 +114,21 @@ komponierten Musikstücken etwas Geld vorhanden, verschleuderte er
 seine Einkünfte.
 
 Seine Frau, Barbara Zweifel von Linthal, hatte es nicht leicht, zumal
-er 1908 eines Tages eine Arbeit in einer Spinnerei in Landegg
-(Vorarlberg) annahm und mit der ganzen Familie dorthin zog. Auch
-dieser Aufenthalt war nicht von langer Dauer. Die Jennys wanderten
-1910 nach Russland aus, wo Johannes 160 km südlich von Moskau in der
-in Schweizer Besitz befindlichen Spinnerei von Saraisk die Stelle als
-Obermeister antrat. Hier blieb er bis zum Beginn der Oktoberrevolution
-im Jahr 1917. Dann folgte die traurige Heimreise. Als die Familie von
-den Wirren aufgehalten wurde, kehrte Jenny nochmals zurück, während
-seine Frau Barbara und die Kinder unter schlimmsten Verhältnissen und
-in grosser Not auf ihn warteten. Schliesslich gelangte die geschwächte
-Familie Jenny ins Glarnerland. Vorübergehend fand sie Aufnahme bei
-Barbaras Schwester, die in Linthal mit ihren eigenen Kindern eine
-Dreizimmerwohnung bewohnte. Barbara und zwei Töchter mussten ins
-Sanatorium Braunwald gebracht werden, sie erholten sich aber nicht
-mehr von den Strapazen.
+er 1908 eines Tages eine Arbeit in einer Spinnerei in Landegg im
+Vorarlberg annahm und mit der ganzen Familie dorthin zog. Auch dieser
+Aufenthalt war nicht von langer Dauer. Die Jennys wanderten 1910 nach
+Russland aus, wo Johannes 160 km südlich von Moskau in der in
+Schweizer Besitz befindlichen Spinnerei und Weberei von Saraisk die
+Stelle als Obermeister antrat. Hier blieb er bis zum Beginn der
+Oktoberrevolution im Jahr 1917. Dann folgte die traurige Heimreise.
+Als die Familie von den Wirren aufgehalten wurde, kehrte Jenny
+nochmals zurück, während seine Frau Barbara und die Kinder unter
+schlimmsten Verhältnissen und in grosser Not auf ihn warteten.
+Schliesslich gelangte die geschwächte Familie ins Glarnerland.
+Vorübergehend fand sie Aufnahme bei Barbaras Schwester, die in Linthal
+mit ihren eigenen Kindern eine Dreizimmerwohnung bewohnte. Barbara und
+zwei Töchter mussten ins Sanatorium Braunwald gebracht werden, sie
+erholten sich aber nicht mehr von den Strapazen.
 
 Nach Barbaras Tod heiratete Jenny 1924 Regula Dürst von Matt, geboren
 in Sool. Er spielte weiterhin seine Musik, und die Gemeinden rissen
