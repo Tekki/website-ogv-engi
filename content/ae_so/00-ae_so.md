@@ -30,7 +30,7 @@ Theologinnen und Theologen ab Januar 1999 das «Wort zum Sonntag» beim
 Schweizer Fernsehen SF DRS.
 
 Noch während ihrer Amtszeit kaufte sie sich 1973 einen Hausteil in
-Sool, den sie bis zum Umzug ins Altersheim im Jahr ___ bewohnte. Ihre
+Sool, den sie bis zum Umzug ins Altersheim im Jahr 2017 bewohnte. Ihre
 damaligen Nachbarn, Vrini (Verena) und Thümi (Thomas) Juon, sprachen
 einen ausgeprägt farbigen Glarnerdialekt. Erst bei den Gesprächen mit
 ihnen stellte Adelheid Baumgartner fest, wieviel von ihrer
@@ -128,16 +128,15 @@ Schliesslich gelangte die geschwächte Familie ins Glarnerland.
 Vorübergehend fand sie Aufnahme bei Barbaras Schwester, die in Linthal
 mit ihren eigenen Kindern eine Dreizimmerwohnung bewohnte. Barbara und
 zwei Töchter mussten ins Sanatorium Braunwald gebracht werden, sie
-erholten sich aber nicht mehr von den Strapazen.
+erholten sich aber nicht mehr von den Strapazen. Nach Barbaras Tod
+heiratete Jenny 1924 Regula Dürst von Matt, geboren in Sool.
 
-Nach Barbaras Tod heiratete Jenny 1924 Regula Dürst von Matt, geboren
-in Sool. Er spielte weiterhin seine Musik, und die Gemeinden rissen
-sich zur Zeit der Kilbenen um Jennys Glarner Bauernkapelle.
-
-In Linthal zum Beispiel spielte die Kapelle meistens im «Adler». Der
-Adlerwirt besass Pferde und Wagen, und so liess er die Musiker jeweils
-von einem Spielknaben mit einem Zweispänner am Bahnhof abholen und im
-Dorf herumfahren. Sie spielten sitzend im Gefährt, nur Jenny stand als
+Er spielte weiterhin seine Musik, und die Gemeinden rissen sich zur
+Zeit der Kilbenen um Jennys Glarner Bauernkapelle. In Linthal zum
+Beispiel spielte die Kapelle meistens im «Adler». Der Adlerwirt besass
+Pferde und Wagen, und so liess er die Musiker jeweils von einem
+Spielknaben mit einem Zweispänner am Bahnhof abholen und im Dorf
+herumfahren. Sie spielten sitzend im Gefährt, nur Jenny stand als
 einziger, alle anderen überragend, und spielte die Klarinette. Die
 Schwester seiner ersten Frau Barbara schloss jeweils die Fenster; sie
 mochte die Musik nicht hören.

@@ -178,3 +178,5 @@ Konflikt mit meiner Fahrdienstzeit, die ja den Sonntag mit einschloss.
 So sagte ich mir, dass eine andere Arbeitsstelle diesen Konflikt aus
 der Welt schaffen würde. Die Zeit bei der Sernftalbahn ist mir aber in
 guter Erinnerung geblieben. Ich möchte sie nicht missen.
+
+{{< continue-button "../10-ursula-sigrist-stauffacher" "Ursula Sigrist-Stauffacher" >}}
