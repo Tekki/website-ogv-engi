@@ -159,3 +159,5 @@ und von dort nach Glarus transportiert. – So war Liebes und Leides mit
 der Bahn verbunden.
 
 [^1]: Ein Mureli ist eine Art Weggen, ein Stückli ein Patisseriegebäck.
+
+{{< continue-button "../12-jakob-speich-rhyner" "Jakob Speich-Rhyner" >}}
