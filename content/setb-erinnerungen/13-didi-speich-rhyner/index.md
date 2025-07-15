@@ -136,3 +136,5 @@ und Welt angekommen.
 
 [^1]: Bei den Autobetrieben Sernftal AG, dem Nachfolgeunternehmen der
     Sernftalbahn.
+
+{{< continue-button "../14-marie-blumer-rhyner-elsbeth-rhyner" "Marie Blumer-Rhyner und Elsbeth Rhyner" >}}
