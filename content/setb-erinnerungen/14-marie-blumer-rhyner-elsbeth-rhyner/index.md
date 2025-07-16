@@ -92,3 +92,5 @@ Kraft, mich immer noch mit den Füssen zwischen den Sprossen fest zu
 halten. So konnte einer von unten heraufsteigen, unter meinen Rücken
 kriechen und mir helfen, mich langsam aufzurichten.
 
+
+{{< continue-button "../15-adelheid-baumgartner" "Adelheid Baumgartner" >}}

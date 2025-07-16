@@ -22,4 +22,6 @@ featured: false
 
 ![Kaspar Zentner, Martin Baumgartner-Freitag](baehnler4.jpg)
 
+![Die Mütze, Laterne, Pfeifen und Kontrollzange.](ausruestung.jpg)
+
 {{< continue-button "../05-heinrich-elmer-heer" "Heinrich Elmer-Heer" >}}
