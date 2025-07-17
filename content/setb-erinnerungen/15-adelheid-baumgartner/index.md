@@ -318,3 +318,5 @@ Kindheit.
 
 [^1]: Bei der Sernftalbahn gab es nur zweite und dritte Klasse; die
     Zweitklasswagen wurden vom Volk oft als «erste Klasse» bezeichnet.
+
+{{< continue-button "../16-hans-marti-malacarne" "Hans Marti-Malacarne" >}}
