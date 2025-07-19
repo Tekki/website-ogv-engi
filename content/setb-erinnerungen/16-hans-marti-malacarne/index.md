@@ -167,3 +167,5 @@ nämlich, dass die bessere Note auf die praktischen Fächer gefallen
 wäre und nicht auf die Theorie.» Aber sei es, wie es wolle, für mich
 ging mit der Lehre bei der Sernftalbahn eine reiche, gute Zeit zu
 Ende. Das Tor zum Leben war für mich weit offen.
+
+{{< continue-button "../17-jakob-kubli-cia" "Jakob Kubli-Cia" >}}
