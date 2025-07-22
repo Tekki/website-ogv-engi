@@ -184,8 +184,6 @@ selten Differenzen. Sie waren wie zusammengeschweisst, denn sie
 wussten, dass sie im Notfall auf Gedeih und Verderb aufeinander
 angewiesen waren, und das machte aus ihnen beinahe eine Bruderschaft.
 
-![Bahnmeister Heinrich Hämmerli-Zimmermann.](heiri-haemmerli.jpg)
-
 Natürlich hatten sie auch ihre kleinen Abwechslungen, wenn sie auf der
 Strecke am Grampen waren, und erlaubten sich vor allem jüngeren Frauen
 gegenüber hie und da einen Spass. Das Gemsberg-Lili war eines ihrer
@@ -229,3 +227,5 @@ hin- und herfuhren.
 
 [^2]: Der Unfall ereignete sich am 29. Juni 1932, vgl. Waldburger
     1971, S. 63.
+
+{{< continue-button "../19-mathias-voegeli-stauffacher" "Mathias Vögeli-Stauffacher" >}}
